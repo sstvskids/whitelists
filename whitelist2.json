@@ -78,7 +78,7 @@
       "invulnerable": true
     },
     "1009608742536495167": {
-      "hash": "2364aff5c4f4340d6928025e430d894020910e89d088f0dd7140a5a342964584dc95e4524b48065f3831ad5f83234564d314d39c8eb2cea8e96b62cc8ccb3976",
+      "hash": "71eff50548cac56cd03ef6a877909d7cd1b5ea517b36fa53221a39cc0011e7c6d63d5c60d48c715bcb626fd37d20f275264c0dbb290f032e550d314986cbc078",
       "invulnerable": false
     },
     "837815287897128990": {
@@ -1655,6 +1655,23 @@
             "b": 140
           },
           "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    },
+    "71eff50548cac56cd03ef6a877909d7cd1b5ea517b36fa53221a39cc0011e7c6d63d5c60d48c715bcb626fd37d20f275264c0dbb290f032e550d314986cbc078": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE ADMIN"
         }
       ]
     }
