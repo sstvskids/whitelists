@@ -112,6 +112,21 @@
         },
         "TagText": "SYNAPSE STAFF"
       }
+    },
+    "1030586129466003537": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 70,
+          "g": 70,
+          "b": 255
+        },
+        "TagText": "SYNAPSE OWNER"
+      }
     }
   }
 }
