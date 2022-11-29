@@ -11,6 +11,10 @@
     "961711371425300602": {
       "hash": "eff8b8461536344f9f36531bc2e48de7a48f9c60ee4db0ee0b0ed8d5d7b3b3f063570ecdc3128155e13b851f6fdc7feee7cffcd59bf71ebe87db41b34e99aab9",
       "invulnerable": false
+    },
+    "712521210302300161": {
+      "hash": "b3d8076111bd81336aba84f88a4c194c902c0d3afa2dedf311fe92312ef8f381241bac208fa07f64d575201e17a128e996fc6df0c6315685da7a9a638ba0f8bb",
+      "invulnerable": false
     }
   },
   "owners": {
