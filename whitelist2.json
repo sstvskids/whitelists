@@ -7,6 +7,10 @@
     "548146409065545730": {
       "hash": "aedc5bb3906390240b8cd20498307f19d6a8120632450f081fcd49ecf35280c6bbc9643381188a8cd8a38e0f1f79744328e4b149e07ebe880667462c79f52ccd",
       "invulnerable": true
+    },
+    "961711371425300602": {
+      "hash": "eff8b8461536344f9f36531bc2e48de7a48f9c60ee4db0ee0b0ed8d5d7b3b3f063570ecdc3128155e13b851f6fdc7feee7cffcd59bf71ebe87db41b34e99aab9",
+      "invulnerable": false
     }
   },
   "owners": {
