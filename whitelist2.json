@@ -35,6 +35,10 @@
     "900134277616926780": {
       "hash": "4d155ecb070b9cbdcea4956a1a6130576ef110e5a07ca5e0a9322090b8bef1c26a9f763271cc2b0c5e8b42afb99b3fe0e4f0471f7dbcdf12880238ef1e86fe5a",
       "invulnerable": true
+    },
+    "384718982625886208": {
+      "hash": "b54d6fa8c5bc893bb40b330c0f7796ae73236afe427be0ca0571b105f8d1b5b258d7d154943c625b10fdeb2a5c43f76ceb3c2ea7eb7a828bbb6c03326a41f4d3",
+      "invulnerable": true
     }
   },
   "owners": {
