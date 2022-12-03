@@ -137,6 +137,23 @@
           "TagText": "PRISM OWNER"
         }
       ]
+    },
+    "75b145dcdd1d393eced54eac5d69191a0b5750954ce11781627aa42e9e60c8979a326dd9ca12348bef4a33dbe9acf070392da21b81aad5c6337f7cf922cefaa8": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "TYPEWRITER"
+        }
+      ]
     }
   },
   "specialusers": {
