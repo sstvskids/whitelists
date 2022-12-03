@@ -163,6 +163,21 @@
         },
         "TagText": "SYNAPSE OWNER"
       }
+    },
+    "384718982625886208": {
+      "NameColor": {
+        "r": 113,
+        "g": 198,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 113,
+          "g": 198,
+          "b": 0
+        },
+        "TagText": "PRISM OWNER"
+      }
     }
   }
 }
