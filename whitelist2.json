@@ -178,6 +178,21 @@
         },
         "TagText": "PRISM OWNER"
       }
+    },
+    "548146409065545730": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 0
+        },
+        "TagText": "TYPEWRITER"
+      }
     }
   }
 }
