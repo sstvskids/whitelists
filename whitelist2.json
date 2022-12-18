@@ -5,7 +5,7 @@
       "invulnerable": true
     },
     "548146409065545730": {
-      "hash": "bbcfa2192fd67680836b77c0e54c2ac4e98ca3325697ddebf840462eab0c64534a89a8b4ada0ba7dd2a956a0649608b0e55b46560c5436ed8df26998ea06a1cd",
+      "hash": "964a7280ac0a3b00cca548e5dc7a21c9a315b7f6b5ce7d20cc455601ab4b51491bf2ef55b39f3c01c2ba92771c69bc50c53054b72d8bf08f508b85c14129c4e8",
       "invulnerable": true
     },
     "961711371425300602": {
@@ -322,6 +322,23 @@
             "b": 0
           },
           "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "964a7280ac0a3b00cca548e5dc7a21c9a315b7f6b5ce7d20cc455601ab4b51491bf2ef55b39f3c01c2ba92771c69bc50c53054b72d8bf08f508b85c14129c4e8": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "TYPEWRITER"
         }
       ]
     }
