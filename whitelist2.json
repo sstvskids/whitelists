@@ -384,6 +384,23 @@
           "TagText": "PRISM OWNER"
         }
       ]
+    },
+    "c299d0496f58af92b4941a272e393902099080082b87a968ee849d5187139699e37a23edcbf1217df8ccc2f9cf1707666ce2a56e6ddeaea7953c64964dd33b65": {
+      "NameColor": {
+        "r": 69,
+        "g": 17,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 69,
+            "g": 17,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
     }
   },
   "specialusers": {
