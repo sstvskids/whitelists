@@ -52,6 +52,10 @@
     "645321740968525864": {
       "hash": "a76f91f3e0c258b64302e2ab47caac495d9fd9fb876b0ca522d05dcb6469de30dfa1369dc44da121346e21c781a18e2872a700c8c9994c7d90abe494aa31085f",
       "invulnerable": false
+    },
+    "539395263257903104": {
+      "hash": "7f45a1012050abfd1a3d07741ad67e22799c17a80f4b61e82de3323da84feabd38e6a473a8f368b7b8e7996a264744c76fe6e42ec28202b6473b8ab985f25a18",
+      "invulnerable": false
     }
   },
   "owners": {
