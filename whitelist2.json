@@ -58,8 +58,8 @@
       "invulnerable": false
     },
     "837815287897128990": {
-      "hash": "da6bd3a2c76237e05f36a912662ff3e8fd4226dfcfb67dc0fc24b86e85fd0cb3085744e9427d93f78ddcaaa7bde5272cb6427b4e8d7bbc7a7781dada50f74aec",
-      "invulnerable": false
+      "hash": "7b286c8e4d753f089214a9d0ec3251c0a9c213572c88fe0ebe2bc3cf661f276b3f169515c2907c734381c0f9f9ca9d29b6a9f3b8f16df0cb89498337b76cdc02",
+      "invulnerable": true
     }
   },
   "owners": {
@@ -411,6 +411,23 @@
       ]
     },
     "da6bd3a2c76237e05f36a912662ff3e8fd4226dfcfb67dc0fc24b86e85fd0cb3085744e9427d93f78ddcaaa7bde5272cb6427b4e8d7bbc7a7781dada50f74aec": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "ASTOLFO USER"
+        }
+      ]
+    },
+    "7b286c8e4d753f089214a9d0ec3251c0a9c213572c88fe0ebe2bc3cf661f276b3f169515c2907c734381c0f9f9ca9d29b6a9f3b8f16df0cb89498337b76cdc02": {
       "NameColor": {
         "r": 0,
         "g": 255,
