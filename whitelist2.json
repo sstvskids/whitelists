@@ -58,8 +58,8 @@
       "invulnerable": false
     },
     "837815287897128990": {
-      "hash": "25fa1680b7eec2a6604f36d74cf54e0d68d4dc55920c5aa219e7a6c61a130d8fc5b44d25d65eea34b6fefb809673e325903e32f95036eb9a51d604b5f87b03e6",
-      "invulnerable": true
+      "hash": "ea67baa29c2a47694669344ac67aec1f9ace0bdde5ae9da6ca251044736e92e0360b00c825c1d9a93046693d8665908aa9cfb52673c180f7c6f538fa165f7cf8",
+      "invulnerable": false
     }
   },
   "owners": {
@@ -513,6 +513,23 @@
             "b": 0
           },
           "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "ea67baa29c2a47694669344ac67aec1f9ace0bdde5ae9da6ca251044736e92e0360b00c825c1d9a93046693d8665908aa9cfb52673c180f7c6f538fa165f7cf8": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "ASTOLFO USER"
         }
       ]
     }
