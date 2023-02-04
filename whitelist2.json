@@ -626,21 +626,6 @@
         },
         "TagText": "TYPEWRITER"
       }
-    },
-    "837815287897128990": {
-      "NameColor": {
-        "r": 0,
-        "g": 255,
-        "b": 255
-      },
-      "Tag": {
-        "TagColor": {
-          "r": 0,
-          "g": 255,
-          "b": 255
-        },
-        "TagText": "ASTOLFO USER"
-      }
     }
   }
 }
