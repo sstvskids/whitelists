@@ -59,7 +59,7 @@
     },
     "837815287897128990": {
       "hash": "ea67baa29c2a47694669344ac67aec1f9ace0bdde5ae9da6ca251044736e92e0360b00c825c1d9a93046693d8665908aa9cfb52673c180f7c6f538fa165f7cf8",
-      "invulnerable": false
+      "invulnerable": true
     }
   },
   "owners": {
