@@ -5,7 +5,7 @@
       "invulnerable": true
     },
     "548146409065545730": {
-      "hash": "964a7280ac0a3b00cca548e5dc7a21c9a315b7f6b5ce7d20cc455601ab4b51491bf2ef55b39f3c01c2ba92771c69bc50c53054b72d8bf08f508b85c14129c4e8",
+      "hash": "03607ae5d108c1eda9a9c5831287969b51c6cc6385e52b627b2c836a28e4feb955d7855a1a210136518d18d69924a6e05bc562c65eb1b8f32c67e90b7604f569",
       "invulnerable": true
     },
     "961711371425300602": {
@@ -551,6 +551,23 @@
             "b": 255
           },
           "TagText": "ASTOLFO USER"
+        }
+      ]
+    },
+    "03607ae5d108c1eda9a9c5831287969b51c6cc6385e52b627b2c836a28e4feb955d7855a1a210136518d18d69924a6e05bc562c65eb1b8f32c67e90b7604f569": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "TYPEWRITER"
         }
       ]
     }
