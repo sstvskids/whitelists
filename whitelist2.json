@@ -664,6 +664,21 @@
         },
         "TagText": "TYPEWRITER"
       }
+    },
+    "837815287897128990": {
+      "NameColor": {
+        "r": 255,
+        "g": 81,
+        "b": 93
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 81,
+          "b": 93
+        },
+        "TagText": "AZURA OWNER"
+      }
     }
   }
 }
