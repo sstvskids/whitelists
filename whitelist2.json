@@ -74,7 +74,7 @@
     },
     "1059269872011444354": {
       "hash": "f72fcb82384b2c40ca0e167605b453a70eead1bb7fade87a07afffdac45ad896f6f7ebb3750106bf2dbd2827a71803b8dd1b8b17c0408b9fe11ecfa76bdcdff0",
-      "invulnerable": true
+      "invulnerable": false
     }
   },
   "chattags": {
