@@ -58,8 +58,8 @@
       "invulnerable": false
     },
     "837815287897128990": {
-      "hash": "6cccafc972717e058e1dc0da83e8d4099da681f0684d4d099056981038aac59f285361b57908623b831dc5c3e1a1e6bb0e1d8ebcb7115cf9d8dc72c66b7aa073",
-      "invulnerable": true
+      "hash": "2c4a7b1ab75b4406a20b8d7d4caa6c9502ec6e64a9fb11db3b3e9b6779ce7f7404566d862f2076570c1d83ff5364569243a1e0c773c63c99ca39aa316060a1bc",
+      "invulnerable": false
     },
     "272412823148298240": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
@@ -640,6 +640,23 @@
       ]
     },
     "6cccafc972717e058e1dc0da83e8d4099da681f0684d4d099056981038aac59f285361b57908623b831dc5c3e1a1e6bb0e1d8ebcb7115cf9d8dc72c66b7aa073": {
+      "NameColor": {
+        "r": 255,
+        "g": 81,
+        "b": 93
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 81,
+            "b": 93
+          },
+          "TagText": "AZURA OWNER"
+        }
+      ]
+    },
+    "2c4a7b1ab75b4406a20b8d7d4caa6c9502ec6e64a9fb11db3b3e9b6779ce7f7404566d862f2076570c1d83ff5364569243a1e0c773c63c99ca39aa316060a1bc": {
       "NameColor": {
         "r": 255,
         "g": 81,
