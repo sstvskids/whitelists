@@ -621,6 +621,23 @@
           "TagText": "TYPEWRITER"
         }
       ]
+    },
+    "4c3c6135bb8c23808d37e032b26d51612561f77c9ec34baae9ee6687403fba1e9dcf54d51ba1d2aca6ba1d737ff5eadb5dc8952b6e682041098cb0771d8f2be2": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
+        }
+      ]
     }
   },
   "specialusers": {
