@@ -64,6 +64,10 @@
     "272412823148298240": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "invulnerable": false
+    },
+    "735432575140757605": {
+      "hash": "54e3568782e4115a78aff3ec12335add1adb07dda01ea6d5d65fc75af87e440b7fcf7ef90818d73a50384fa930308d68e3b11817063aa1ed55ca3f6fd6309bb9",
+      "invulnerable": true
     }
   },
   "owners": {
