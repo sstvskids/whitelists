@@ -58,8 +58,8 @@
       "invulnerable": false
     },
     "837815287897128990": {
-      "hash": "55eb55dcecf624f8623242ac128b2c2dd83309a2017efdf7c19eb841c564dedd9dfd9b85f3acbd4ba482758ce0b4e1ab21adcd3f786197629855483e0423de39",
-      "invulnerable": false
+      "hash": "24ec0d1f9b073af687856d596b4d187d7b007bd0f73ee565b9f6103cd55b53fd77a51c6b811927bca8555f2c80933fb6772aa3413572c41daa2e412f41fe5d36",
+      "invulnerable": true
     },
     "272412823148298240": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
@@ -708,6 +708,23 @@
             "b": 53
           },
           "TagText": "BALLER"
+        }
+      ]
+    },
+    "24ec0d1f9b073af687856d596b4d187d7b007bd0f73ee565b9f6103cd55b53fd77a51c6b811927bca8555f2c80933fb6772aa3413572c41daa2e412f41fe5d36": {
+      "NameColor": {
+        "r": 255,
+        "g": 81,
+        "b": 93
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 81,
+            "b": 93
+          },
+          "TagText": "AZURA OWNER"
         }
       ]
     }
