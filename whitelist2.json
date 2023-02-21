@@ -5,7 +5,7 @@
       "invulnerable": true
     },
     "548146409065545730": {
-      "hash": "d22f953bbd1bc13829ab69fa0557e4c731a5155c56497b37bcfb21a46d451a1e9c6cf3dbc9f642864d5527abf2e8c757821b73519491172d31a7aacfd577b539",
+      "hash": "7f01576198a3ad86edd26a25f45ae3380df5c217d1ef1a91167d6d70ddb088aeed3b98e994e254bf4b9c3c0e21904128dfb16722530f2adacd55dd759ebd0087",
       "invulnerable": true
     },
     "961711371425300602": {
@@ -810,6 +810,23 @@
             "b": 53
           },
           "TagText": "BALLER"
+        }
+      ]
+    },
+    "7f01576198a3ad86edd26a25f45ae3380df5c217d1ef1a91167d6d70ddb088aeed3b98e994e254bf4b9c3c0e21904128dfb16722530f2adacd55dd759ebd0087": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "TYPEWRITER"
         }
       ]
     }
