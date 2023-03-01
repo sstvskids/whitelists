@@ -17,7 +17,7 @@
       "invulnerable": true
     },
     "709094619161296939": {
-      "hash": "18f9dc1c921493c0de8b9784af5e605ef96921c979f8e1e8fb14b3821781eb73b743e1617490a1fffbe83100512c8e0370110741510a1e75ea85aba665ad31f9",
+      "hash": "12cfec050357708263db868f52d4327c137fd60260a4c1d48170b884f6432cc00708f0a16b92b14c1b6054112fb8d4ad8398732c7d4e6cf38a569ba344f00010",
       "invulnerable": true
     },
     "759071932276146216": {
@@ -929,6 +929,23 @@
             "b": 0
           },
           "TagText": "TYPEWRITER"
+        }
+      ]
+    },
+    "12cfec050357708263db868f52d4327c137fd60260a4c1d48170b884f6432cc00708f0a16b92b14c1b6054112fb8d4ad8398732c7d4e6cf38a569ba344f00010": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
         }
       ]
     }
