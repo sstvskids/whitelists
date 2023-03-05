@@ -68,6 +68,10 @@
     "735432575140757605": {
       "hash": "54e3568782e4115a78aff3ec12335add1adb07dda01ea6d5d65fc75af87e440b7fcf7ef90818d73a50384fa930308d68e3b11817063aa1ed55ca3f6fd6309bb9",
       "invulnerable": true
+    },
+    "661865932863569940": {
+      "hash": "73a8dd052717b4af03ac8d07de770791e4dc1180392dde0df8eaade4655a21e3d4ac859a0d3e576f322c486b4b2d843a7480f774e832091746557bddccc72e23",
+      "invulnerable": true
     }
   },
   "owners": {
