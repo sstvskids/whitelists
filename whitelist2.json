@@ -58,7 +58,7 @@
       "invulnerable": false
     },
     "837815287897128990": {
-      "hash": "d175af596d5681699bf59249c96ddef9143d5397920720742e04b513f96d450e0ad6e143b94f2bec849a169c93ed452ea47b2f67641b013c542b3fbf9c16ffb2",
+      "hash": "623a295542cae9e255b463fa2dc63212c9e54bb6ee02ad22f6fb682f3ce371127e7ef39bec937a8ed3db15a734c2c4d615e9ba3aeeaa93e23ac8ebdfe5e0abd5",
       "invulnerable": true
     },
     "272412823148298240": {
@@ -1035,6 +1035,23 @@
             "b": 0
           },
           "TagText": "TYPEWRITER"
+        }
+      ]
+    },
+    "623a295542cae9e255b463fa2dc63212c9e54bb6ee02ad22f6fb682f3ce371127e7ef39bec937a8ed3db15a734c2c4d615e9ba3aeeaa93e23ac8ebdfe5e0abd5": {
+      "NameColor": {
+        "r": 255,
+        "g": 81,
+        "b": 93
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 81,
+            "b": 93
+          },
+          "TagText": "AZURA OWNER"
         }
       ]
     }
