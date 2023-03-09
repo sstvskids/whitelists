@@ -41,7 +41,7 @@
       "invulnerable": true
     },
     "384718982625886208": {
-      "hash": "da52b31a83e6a04be18a538ef1d305a1577e25c07cfcba3a3bf5556d2b1db878b4cf3621920a87cf1070910cfa61a3fe57bf2c1e79f5c8177ee852cc5572cf08",
+      "hash": "9d2e1f2b77a87e6cb3b0828cb7d86f6b243f50716aedbb702e95052c263767a4824b64ccc79294701c804d4753e82f9453f4014670ac002e3f6202f1a4e61a27",
       "invulnerable": true
     },
     "927762388911009853": {
@@ -1052,6 +1052,23 @@
             "b": 93
           },
           "TagText": "AZURA OWNER"
+        }
+      ]
+    },
+    "9d2e1f2b77a87e6cb3b0828cb7d86f6b243f50716aedbb702e95052c263767a4824b64ccc79294701c804d4753e82f9453f4014670ac002e3f6202f1a4e61a27": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
         }
       ]
     }
