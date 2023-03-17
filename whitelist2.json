@@ -86,9 +86,9 @@
       "invulnerable": true
     },
     "1059269872011444354": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
-      "attackable": false,
-      "notag": true
+      "hash": "98d6bbb89453c834d209b0f6d09891d5e17f8bbe4a43bcb174d377468c5811ed28b014944f00f6f58b8fbc2ac47bd146828b3995ea8fb21b58cab3397b5bbfdc",
+      "attackable": true,
+      "notag": false
     }
   },
   "chattags": {
