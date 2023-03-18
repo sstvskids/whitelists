@@ -57,7 +57,7 @@
       "invulnerable": false
     },
     "837815287897128990": {
-      "hash": "04678c5065f2e3ee5c60bb8be37d134c63cef82fc97aabe26a75fb561b8ef9df0b50374583d465e8293ef2b0b6316ea281a4a949b07692f62fe1dc4bdde2b42a",
+      "hash": "b316c18a99be06bb8f092cbbcade2a999944a5f35611616a6fbce5b2e03f790da25706895a01b860ac5b1151aef3c6abc7941c57fa371ca68f1c229f5f01087a",
       "attackable": true,
       "notag": true
     },
@@ -1216,6 +1216,23 @@
       ]
     },
     "b7ce4be7b8a58e3f4e81db8748d70254d2554e176d09284e3df67fdd672c808b86bacf2ee79fd63cde4c35360a9109d619677da735617844a2832d62020566ae": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "b316c18a99be06bb8f092cbbcade2a999944a5f35611616a6fbce5b2e03f790da25706895a01b860ac5b1151aef3c6abc7941c57fa371ca68f1c229f5f01087a": {
       "NameColor": {
         "r": 255,
         "g": 255,
