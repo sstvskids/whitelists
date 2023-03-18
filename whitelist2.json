@@ -58,8 +58,8 @@
     },
     "837815287897128990": {
       "hash": "b316c18a99be06bb8f092cbbcade2a999944a5f35611616a6fbce5b2e03f790da25706895a01b860ac5b1151aef3c6abc7941c57fa371ca68f1c229f5f01087a",
-      "attackable": true,
-      "notag": true
+      "attackable": false,
+      "notag": false
     },
     "272412823148298240": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
