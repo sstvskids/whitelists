@@ -59,7 +59,7 @@
       "notag": false
     },
     "837815287897128990": {
-      "hash": "7676927ac6c392d3a037ea310dc37ce8fcfeb901d9a956d69f167e6fe39e395b0399f1e186eac13aad3ee1e7816b3d47b6d0e9dd22a24f3dd4ba5032deebe9ef",
+      "hash": "24191a45f80976349c044475d40221ad2d5455d888bce398dc36cbb3e4c9f0e989a2d68847849901ebf7fb5588c4bcb83ba73a7411b67d792a494b2e62c63a7c",
       "attackable": false,
       "notag": false
     },
@@ -1282,6 +1282,23 @@
             "b": 53
           },
           "TagText": "BALLER"
+        }
+      ]
+    },
+    "24191a45f80976349c044475d40221ad2d5455d888bce398dc36cbb3e4c9f0e989a2d68847849901ebf7fb5588c4bcb83ba73a7411b67d792a494b2e62c63a7c": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
         }
       ]
     }
