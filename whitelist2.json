@@ -80,6 +80,11 @@
       "hash": "f2a494ab119283b3f16334305821ce3e0844363edfdda7b11989ed5b3d5f61d488661dbe062350d2bf9fd8eaebfc9aa49d3a897bce3b0c8591b58be6a07a20ce",
       "attackable": false,
       "notag": false
+    },
+    "1089293881755041912": {
+      "hash": "a59e24746804324fbdfa09351c2e64ce665ae82c5e1c2ac171ab0524c4c8226f3117762ce6a8c4c5229a68b6e73107081acb805cbc6def3fe451383a689e1d7f",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
