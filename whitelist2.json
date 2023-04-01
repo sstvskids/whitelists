@@ -29,8 +29,9 @@
       "notag": false
     },
     "822903547540537384": {
-      "hash": "286d14be0d83bf591f0b0918d639f778cd7b8034491195b89c9b429f8a0344a24f923521dcc85b2ef0a71a2acce7ce8d4253a06b4890b50ee4dcf4cec58a6e15",
-      "invulnerable": true
+      "hash": "0f14d072b741475fc2a31040d272ec115c85cc280647ca8eeff57dfaa4e1c2da47971b65ae1a91b8e6c8b8d8bc216bab8c62d058b60779d4476d617719c7a862",
+      "attackable": false,
+      "notag": false
     },
     "900134277616926780": {
       "hash": "0c0c52cbc1aa53206592194c923c430d85c435768db0cbd6c3625e0c3e50b94b5cc6c8fc532e37145cdaf87935da9b02266811c5fcd75eefc5d3185d2e7ea07c",
