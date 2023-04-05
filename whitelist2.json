@@ -46,8 +46,9 @@
       "invulnerable": true
     },
     "384718982625886208": {
-      "hash": "9d2e1f2b77a87e6cb3b0828cb7d86f6b243f50716aedbb702e95052c263767a4824b64ccc79294701c804d4753e82f9453f4014670ac002e3f6202f1a4e61a27",
-      "invulnerable": true
+      "hash": "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c",
+      "attackable": false,
+      "notag": false
     },
     "12": "1e30e5999df70db877446960eeb0f08c3fa631e151e7757ddd0cca4ec2bdb894e829f91f61718ae76bfe4f6691a88191e9ed22504687932ca917e0f0b8053d28",
     "645321740968525864": {
@@ -1390,6 +1391,23 @@
             "b": 0
           },
           "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
         }
       ]
     }
