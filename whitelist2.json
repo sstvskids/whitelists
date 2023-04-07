@@ -87,6 +87,11 @@
       "hash": "118f6761ddcd0632386dbe9d774bd75bbd1cb2cc5800fb36ffdcc8c37d0d34651d3643a8682def0c4718b36ffdae9f38f5e6a5a5d34fc47b54fd219ac86139b0",
       "attackable": false,
       "notag": false
+    },
+    "917758164932374568": {
+      "hash": "f60b16ce0c2a30994034880debd99c2e594dd1dd4b5db74d88a80601db7e80766fe031d8e1ceced3315f71ea087b647b8fd2e72dc1117b8793477e08c44dd802",
+      "attackable": true,
+      "notag": true
     }
   },
   "owners": {
@@ -1408,6 +1413,23 @@
             "b": 252
           },
           "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "f60b16ce0c2a30994034880debd99c2e594dd1dd4b5db74d88a80601db7e80766fe031d8e1ceced3315f71ea087b647b8fd2e72dc1117b8793477e08c44dd802": {
+      "NameColor": {
+        "r": 157,
+        "g": 38,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 157,
+            "g": 38,
+            "b": 255
+          },
+          "TagText": "MURDER"
         }
       ]
     }
