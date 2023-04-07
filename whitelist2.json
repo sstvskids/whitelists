@@ -91,7 +91,7 @@
     "917758164932374568": {
       "hash": "c6f68a07f1b3f0888a9925cfb2f45ae3e28d9eeef641a71436b1723d11783fbd02d44aa258d38b04474792adbe6e05f88876241df61565f4ed1036c7b9b71f83",
       "attackable": false,
-      "notag": true
+      "notag": false
     }
   },
   "owners": {
