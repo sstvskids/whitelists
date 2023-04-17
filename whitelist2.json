@@ -82,7 +82,7 @@
     "1026586158785904792": {
       "hash": "b6ff29911ede551fa88aea46a8827fce4d82acd4fe2f2514ebc6377ad432994c7f8d29b0ea55255cf61a76c3fe540e7946c59f1f50d15e947e45b18889adf4ed",
       "attackable": false,
-      "notag": false
+      "notag": true
     },
     "1089293881755041912": {
       "hash": "91d555cb35d68a2ecbe95597ff3db6ff4bf535bb7363ea80b58ada2a8e1eca8746ee3e34ad416a47efbed8192f4313783189c50a1eaf231db1849a0825bf6865",
