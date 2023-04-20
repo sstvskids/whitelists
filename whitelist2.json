@@ -19,9 +19,9 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "f3223b03fc9037fa2e80ab094f427a0846b2f05ba190d981e9cd66ad7c0ace01a2edfeed02e4f8cb7e708703eb1f46228f423a9795ffbbf0badf8a89cc282765",
+      "hash": "34ff752ed04fc3d71e2bbc96595e22ed8ddd3a6fee7a2e2cbe674ec397da78d06f39c9e327773dc286be5516e97fccefd78a826ea5b3ddd87e5ab92dafaa0cd9",
       "attackable": false,
-      "notag": true
+      "notag": false
     },
     "759071932276146216": {
       "hash": "58230af32a38c841b4d22ffb88da1799cc79baa600e6493581da454600a4bf55b02933edb9833fb1ac22f9bfa2050e84b7f7dc4efcd402a6c62db53339f31ff7",
@@ -1443,6 +1443,23 @@
             "b": 255
           },
           "TagText": "MURDER"
+        }
+      ]
+    },
+    "34ff752ed04fc3d71e2bbc96595e22ed8ddd3a6fee7a2e2cbe674ec397da78d06f39c9e327773dc286be5516e97fccefd78a826ea5b3ddd87e5ab92dafaa0cd9": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
         }
       ]
     }
