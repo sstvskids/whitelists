@@ -19,9 +19,9 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "34ff752ed04fc3d71e2bbc96595e22ed8ddd3a6fee7a2e2cbe674ec397da78d06f39c9e327773dc286be5516e97fccefd78a826ea5b3ddd87e5ab92dafaa0cd9",
+      "hash": "205fe662c1bd76512110bba42a7f2aef0eb73134a0a7c5cd0749d0404da15d0d2b3950fb277541adfed0c15e6e2d515f8269dddfc3f503c1e8430053e74a1dd2",
       "attackable": false,
-      "notag": false
+      "notag": true
     },
     "759071932276146216": {
       "hash": "58230af32a38c841b4d22ffb88da1799cc79baa600e6493581da454600a4bf55b02933edb9833fb1ac22f9bfa2050e84b7f7dc4efcd402a6c62db53339f31ff7",
@@ -1464,6 +1464,23 @@
       ]
     },
     "c16e2349f576f8bf0034be0eeb957bf18e8a188fa209a08791b878d223a355b4b604d48e606aa2d2bf1b421cd7f8f3a58458c8faf3594ff02bd8a0eb94fbf5b2": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
+        }
+      ]
+    },
+    "205fe662c1bd76512110bba42a7f2aef0eb73134a0a7c5cd0749d0404da15d0d2b3950fb277541adfed0c15e6e2d515f8269dddfc3f503c1e8430053e74a1dd2": {
       "NameColor": {
         "r": 174,
         "g": 255,
