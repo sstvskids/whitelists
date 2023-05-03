@@ -46,7 +46,7 @@
       "invulnerable": true
     },
     "384718982625886208": {
-      "hash": "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c",
+      "hash": "4118cb9efccd05d4a4b01e6ba89998090a9901fa38bd18f2805d0e4668f78ec36f9781e6bafb10a97103ab57f8cbb7b4411d11f30c6b5bde1726078da87dbd1d",
       "attackable": false,
       "notag": false
     },
@@ -1494,6 +1494,23 @@
             "b": 53
           },
           "TagText": "BALLER"
+        }
+      ]
+    },
+    "4118cb9efccd05d4a4b01e6ba89998090a9901fa38bd18f2805d0e4668f78ec36f9781e6bafb10a97103ab57f8cbb7b4411d11f30c6b5bde1726078da87dbd1d": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
         }
       ]
     }
