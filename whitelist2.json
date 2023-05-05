@@ -19,7 +19,7 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "34ff752ed04fc3d71e2bbc96595e22ed8ddd3a6fee7a2e2cbe674ec397da78d06f39c9e327773dc286be5516e97fccefd78a826ea5b3ddd87e5ab92dafaa0cd9",
+      "hash": "2322926ca9369a7134f67760d29149af2f0e7aee39594394691cb2d4f4941b633d51078a6f269d24e6aa3e0d106d4c9172b066411420aea1e3aefd7a5f071c20",
       "attackable": false,
       "notag": false
     },
@@ -1511,6 +1511,23 @@
             "b": 252
           },
           "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "2322926ca9369a7134f67760d29149af2f0e7aee39594394691cb2d4f4941b633d51078a6f269d24e6aa3e0d106d4c9172b066411420aea1e3aefd7a5f071c20": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
         }
       ]
     }
