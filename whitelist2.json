@@ -14,6 +14,11 @@
       "hash": "8e4c5d0749162723901cb682b566b576f217651de17d3a7da29645ff30292b6b449f6f89843b643b8c40efc1a2989b65daac48f43039f32e8fdf2485649167be",
       "attackable": false,
       "notag": false
+    },
+    "709094619161296939": {
+      "hash": "cfe039e7f9c782f2a46b9771b21cc8a8a4b370326dc78965b357b269b85ae66ac1bc3621d435b9f030e4f5bdd326b91cd88fa555cce829b1170638c5350048f9",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
@@ -140,6 +145,23 @@
             "b": 0
           },
           "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "cfe039e7f9c782f2a46b9771b21cc8a8a4b370326dc78965b357b269b85ae66ac1bc3621d435b9f030e4f5bdd326b91cd88fa555cce829b1170638c5350048f9": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
         }
       ]
     }
