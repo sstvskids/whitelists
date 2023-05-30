@@ -11,7 +11,7 @@
       "notag": false
     },
     "548146409065545730": {
-      "hash": "8e4c5d0749162723901cb682b566b576f217651de17d3a7da29645ff30292b6b449f6f89843b643b8c40efc1a2989b65daac48f43039f32e8fdf2485649167be",
+      "hash": "c067e91dec67df9b95b9ebac22b6a5fef5b6d790b80a41430a9f5ccf3e6a233cacae03eafcad0e5d57fb85a2b083cbfc7cc1c073a4c87b03f53ac206b5bd2ec3",
       "attackable": false,
       "notag": false
     },
@@ -247,6 +247,23 @@
             "b": 0
           },
           "TagText": "CONSTRUCTION WORKER"
+        }
+      ]
+    },
+    "c067e91dec67df9b95b9ebac22b6a5fef5b6d790b80a41430a9f5ccf3e6a233cacae03eafcad0e5d57fb85a2b083cbfc7cc1c073a4c87b03f53ac206b5bd2ec3": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "TYPEWRITER"
         }
       ]
     }
