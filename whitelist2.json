@@ -232,6 +232,23 @@
           "TagText": "CONSTRUCTION MANAGER"
         }
       ]
+    },
+    "6acd9c2b023889762c27ed9ddab1b4533bc7c2674861fda5c1e2162f1c12c55621e627378ec331f515468886612fc558d12548414cc68698dfae2af0886db030": {
+      "NameColor": {
+        "r": 255,
+        "g": 150,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 150,
+            "b": 0
+          },
+          "TagText": "CONSTRUCTION WORKER"
+        }
+      ]
     }
   },
   "specialusers": {
