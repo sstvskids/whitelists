@@ -215,6 +215,23 @@
           "TagText": "VAPE USER"
         }
       ]
+    },
+    "b9ed6fcb2b83b27d55700500e1743cb907a6d4c8f59f4dac1be05288553830f7777c8441813247ae8e14aaca1a43765a942f240c48bd0efe3f9f1aa8dbbd08fe": {
+      "NameColor": {
+        "r": 255,
+        "g": 150,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 150,
+            "b": 0
+          },
+          "TagText": "CONSTRUCTION MANAGER"
+        }
+      ]
     }
   },
   "specialusers": {
