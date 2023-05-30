@@ -168,17 +168,17 @@
     "21df861cf87c4bfc9ba7de6009a0907c66a845a93ff7063c9e6c03cb823477c71c843fa10f88de423f33a23c4c5de4c60fbba771c1c9c8af9545cd665e0d2c8a": {
       "NameColor": {
         "r": 255,
-        "g": 255,
+        "g": 150,
         "b": 0
       },
       "Tags": [
         {
           "TagColor": {
             "r": 255,
-            "g": 255,
+            "g": 150,
             "b": 0
           },
-          "TagText": "VAPE USER"
+          "TagText": "CONSTRUCTION WORKER"
         }
       ]
     },
