@@ -6,7 +6,7 @@
       "notag": true
     },
     "837815287897128990": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "hash": "38c29b0d998a62b92661bb6d77c265836391818d0a28c1b86e32f4af1df35d5c8063d9b095ba02d204295ea1fb77275683917e15fab13e9ce79895126798ed33",
       "attackable": false,
       "notag": false
     },
@@ -298,6 +298,23 @@
             "b": 0
           },
           "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "38c29b0d998a62b92661bb6d77c265836391818d0a28c1b86e32f4af1df35d5c8063d9b095ba02d204295ea1fb77275683917e15fab13e9ce79895126798ed33": {
+      "NameColor": {
+        "r": 170,
+        "g": 0,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 170,
+            "g": 0,
+            "b": 255
+          },
+          "TagText": "AC MOD"
         }
       ]
     }
