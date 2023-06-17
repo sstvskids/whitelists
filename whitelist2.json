@@ -34,6 +34,11 @@
       "hash": "9eba76d857ca656d826d8f6036943e321872ae1cfd0f2427f0a3c59a132997a4d613133ab86d4be814cb0de231824be09d2faf9455cc257bfd9a84446ec9d83c",
       "attackable": false,
       "notag": false
+    },
+    "934912074474209350": {
+      "hash": "045166ea60b22bed900ebdfdcea35f33ae3136085632736954583d51852f33124d42f20b4c0f13b4a17aaa9d64ff0027af4929b359d79cc849e9d13aa807d15e",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
@@ -381,6 +386,23 @@
             "b": 252
           },
           "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "045166ea60b22bed900ebdfdcea35f33ae3136085632736954583d51852f33124d42f20b4c0f13b4a17aaa9d64ff0027af4929b359d79cc849e9d13aa807d15e": {
+      "NameColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "VAPE PRIVATE????"
         }
       ]
     }
