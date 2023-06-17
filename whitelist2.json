@@ -517,15 +517,15 @@
       "NameColor": {
         "r": 0,
         "g": 0,
-        "b": 0
+        "b": 100
       },
       "Tag": {
         "TagColor": {
           "r": 0,
           "g": 0,
-          "b": 0
+          "b": 100
         },
-        "TagText": "VAPE PRIVATE????"
+        "TagText": "vape private"
       }
     },
     "1084932631092793345": {
