@@ -1,9 +1,9 @@
 {
   "players": {
     "384718982625886208": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "hash": "da14b8ae1806e30105515e35e2d25c746c13689c379c1cc12daf6befadfcafb39fd42c97bcf243b4a5a82b8389cd3d3a68cb467a61562940d2adf7606c52ba68",
       "attackable": false,
-      "notag": true
+      "notag": false
     },
     "837815287897128990": {
       "hash": "38c29b0d998a62b92661bb6d77c265836391818d0a28c1b86e32f4af1df35d5c8063d9b095ba02d204295ea1fb77275683917e15fab13e9ce79895126798ed33",
@@ -324,6 +324,23 @@
       ]
     },
     "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "da14b8ae1806e30105515e35e2d25c746c13689c379c1cc12daf6befadfcafb39fd42c97bcf243b4a5a82b8389cd3d3a68cb467a61562940d2adf7606c52ba68": {
       "NameColor": {
         "r": 3,
         "g": 207,
