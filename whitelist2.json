@@ -722,6 +722,21 @@
         },
         "TagText": "all"
       }
+    },
+    "1117672184211583056": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "BloodyScept"
+      }
     }
   }
 }
