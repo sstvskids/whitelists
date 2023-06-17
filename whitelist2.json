@@ -44,6 +44,11 @@
       "hash": "ad7626ef271ead22b7a84bd89e2ebe2f34db214d1097fa34af81170dc59e9503be184d5ba8c75e43d2b7682b9b59ad58c9fab93497096ca14d71cd139530f39c",
       "attackable": false,
       "notag": false
+    },
+    "349173600877674507": {
+      "hash": "6575cf0c58bb8b8f8c23104f9f298686e970a140e542e463959beb96a1d03ce1f90c2a4748cc70154585fc7765148849139f88092e96340b90a48ff6082a6029",
+      "attackable": true,
+      "notag": false
     }
   },
   "owners": {
@@ -459,6 +464,23 @@
             "b": 255
           },
           "TagText": "FAMOUS"
+        }
+      ]
+    },
+    "6575cf0c58bb8b8f8c23104f9f298686e970a140e542e463959beb96a1d03ce1f90c2a4748cc70154585fc7765148849139f88092e96340b90a48ff6082a6029": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n"
         }
       ]
     }
