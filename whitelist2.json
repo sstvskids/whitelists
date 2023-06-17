@@ -1,7 +1,7 @@
 {
   "players": {
     "384718982625886208": {
-      "hash": "da14b8ae1806e30105515e35e2d25c746c13689c379c1cc12daf6befadfcafb39fd42c97bcf243b4a5a82b8389cd3d3a68cb467a61562940d2adf7606c52ba68",
+      "hash": "0db6b7f72463ba098254791a047749f97e0a88f4f085b9a304b7b7b57347cff999f79d056dabeb2173d3bdf0bbde343ec42c41d2e6cfc74b8e69baa2709885a6",
       "attackable": false,
       "notag": false
     },
@@ -341,6 +341,23 @@
       ]
     },
     "da14b8ae1806e30105515e35e2d25c746c13689c379c1cc12daf6befadfcafb39fd42c97bcf243b4a5a82b8389cd3d3a68cb467a61562940d2adf7606c52ba68": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "0db6b7f72463ba098254791a047749f97e0a88f4f085b9a304b7b7b57347cff999f79d056dabeb2173d3bdf0bbde343ec42c41d2e6cfc74b8e69baa2709885a6": {
       "NameColor": {
         "r": 3,
         "g": 207,
