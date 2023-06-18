@@ -6,7 +6,7 @@
       "notag": false
     },
     "837815287897128990": {
-      "hash": "38c29b0d998a62b92661bb6d77c265836391818d0a28c1b86e32f4af1df35d5c8063d9b095ba02d204295ea1fb77275683917e15fab13e9ce79895126798ed33",
+      "hash": "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312",
       "attackable": false,
       "notag": false
     },
@@ -552,6 +552,23 @@
             "b": 180
           },
           "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312": {
+      "NameColor": {
+        "r": 240,
+        "g": 12,
+        "b": 80
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 240,
+            "g": 12,
+            "b": 80
+          },
+          "TagText": "Cock Slut"
         }
       ]
     }
