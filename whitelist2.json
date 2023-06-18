@@ -592,17 +592,17 @@
     "cdc60e8b254c266b8a9f08508b218448f4f9a113c5e9cb035c9e784159beae28ca73a7cc22dc1db6a59373fca5cff16d1a20a78c788013ebb1e4a3a1c96dee6e": {
       "NameColor": {
         "r": 0,
-        "g": 0,
-        "b": 0
+        "g": 255,
+        "b": 255
       },
       "Tags": [
         {
           "TagColor": {
             "r": 0,
-            "g": 0,
-            "b": 0
+            "g": 255,
+            "b": 255
           },
-          "TagText": "zeyhu has vape private"
+          "TagText": "zeyhu"
         }
       ]
     }
