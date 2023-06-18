@@ -68,7 +68,7 @@
     "1055559512997756980": {
       "hash": "cdc60e8b254c266b8a9f08508b218448f4f9a113c5e9cb035c9e784159beae28ca73a7cc22dc1db6a59373fca5cff16d1a20a78c788013ebb1e4a3a1c96dee6e",
       "attackable": true,
-      "notag": true
+      "notag": false
     }
   },
   "owners": {
@@ -591,18 +591,18 @@
     },
     "cdc60e8b254c266b8a9f08508b218448f4f9a113c5e9cb035c9e784159beae28ca73a7cc22dc1db6a59373fca5cff16d1a20a78c788013ebb1e4a3a1c96dee6e": {
       "NameColor": {
-        "r": 135,
-        "g": 206,
-        "b": 250
+        "r": 0,
+        "g": 0,
+        "b": 0
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 135,
-            "g": 206,
-            "b": 250
+            "r": 0,
+            "g": 0,
+            "b": 0
           },
-          "TagText": "zeyhu is hot"
+          "TagText": "[VAPE PRIVATE]"
         }
       ]
     }
