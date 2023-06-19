@@ -36,7 +36,7 @@
       "notag": false
     },
     "934912074474209350": {
-      "hash": "045166ea60b22bed900ebdfdcea35f33ae3136085632736954583d51852f33124d42f20b4c0f13b4a17aaa9d64ff0027af4929b359d79cc849e9d13aa807d15e",
+      "hash": "15a6d9e88c11e5933d81b19170160770407800aaa005767bb830d43418e86065d38f32aff46307410761c5376dbb98957bd7a54d73c49665df5bc2c146770cde",
       "attackable": false,
       "notag": false
     },
@@ -637,6 +637,23 @@
             "b": 0
           },
           "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "15a6d9e88c11e5933d81b19170160770407800aaa005767bb830d43418e86065d38f32aff46307410761c5376dbb98957bd7a54d73c49665df5bc2c146770cde": {
+      "NameColor": {
+        "r": 255,
+        "g": 100,
+        "b": 100
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 100,
+            "b": 100
+          },
+          "TagText": "VAPE PRIVATE (im pregnant)"
         }
       ]
     }
