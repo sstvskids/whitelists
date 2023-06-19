@@ -896,6 +896,21 @@
         },
         "TagText": "VAPE PRIVATE broskid edition"
       }
+    },
+    "535253405971644417": {
+      "NameColor": {
+        "r": 235,
+        "g": 52,
+        "b": 180
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 235,
+          "g": 52,
+          "b": 180
+        },
+        "TagText": "CATTO"
+      }
     }
   }
 }
