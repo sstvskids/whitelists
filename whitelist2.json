@@ -16,7 +16,7 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "085147494264d30dac70c274dbc8c544e24b0bab9b790fa95a198d7cccc8a1c99c9a25e274efdd0a8984e8260593dd3bdb64cea2fb0c4a26e6f623fe6b92ac94",
+      "hash": "f0f9e0c844b9f308ab5aa4b919e67f4fb3016ff3857c3033935d3bee18e7410f925ad179a53a658543852c1075a45f6d993500510abab24c78e8ca97c00098e5",
       "attackable": false,
       "notag": false
     },
@@ -620,6 +620,23 @@
             "b": 255
           },
           "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "f0f9e0c844b9f308ab5aa4b919e67f4fb3016ff3857c3033935d3bee18e7410f925ad179a53a658543852c1075a45f6d993500510abab24c78e8ca97c00098e5": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
         }
       ]
     }
