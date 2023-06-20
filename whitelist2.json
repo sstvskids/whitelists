@@ -56,7 +56,7 @@
       "notag": false
     },
     "1117672184211583056": {
-      "hash": "a95c384260cfa56da785b8e3d96905afb798b2bbceee6ae2a589823621d40c6e1a1bed0a9d7932302061d355372b5bcce3ff5aab2f55da2b74210b32bba4ec08",
+      "hash": "9e99981942c9c08acdcfaec1fd137a061fb62fe26b3e77885facdcfc8f344bca6bd651082c16debdbab52f2d913d6ff2eeec619e6b29210449d941472082eb3c",
       "attackable": false,
       "notag": false
     },
@@ -658,6 +658,23 @@
       ]
     },
     "a95c384260cfa56da785b8e3d96905afb798b2bbceee6ae2a589823621d40c6e1a1bed0a9d7932302061d355372b5bcce3ff5aab2f55da2b74210b32bba4ec08": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "9e99981942c9c08acdcfaec1fd137a061fb62fe26b3e77885facdcfc8f344bca6bd651082c16debdbab52f2d913d6ff2eeec619e6b29210449d941472082eb3c": {
       "NameColor": {
         "r": 255,
         "g": 105,
