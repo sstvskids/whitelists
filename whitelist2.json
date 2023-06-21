@@ -56,7 +56,7 @@
       "notag": false
     },
     "1117672184211583056": {
-      "hash": "9e99981942c9c08acdcfaec1fd137a061fb62fe26b3e77885facdcfc8f344bca6bd651082c16debdbab52f2d913d6ff2eeec619e6b29210449d941472082eb3c",
+      "hash": "a61acd8ed905ba703c5c1ff2d85f68a75d1e215792621ace85b6592cf63987c088fa845c478229694093c9dfd92a7f805f0c8509137117a2270b8253910321e3",
       "attackable": false,
       "notag": false
     },
@@ -705,6 +705,23 @@
             "b": 255
           },
           "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "a61acd8ed905ba703c5c1ff2d85f68a75d1e215792621ace85b6592cf63987c088fa845c478229694093c9dfd92a7f805f0c8509137117a2270b8253910321e3": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
         }
       ]
     }
