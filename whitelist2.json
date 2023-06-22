@@ -36,9 +36,9 @@
       "notag": false
     },
     "934912074474209350": {
-      "hash": "15a6d9e88c11e5933d81b19170160770407800aaa005767bb830d43418e86065d38f32aff46307410761c5376dbb98957bd7a54d73c49665df5bc2c146770cde",
+      "hash": "0615db6cb2868b82ccfd92380a4f142f64474f9522bece1bd413cfcea0477c5621892bd336a4c645a9867c2013e3cbf0a0bdf45406af3f61ccd9af5575d20ed4",
       "attackable": false,
-      "notag": false
+      "notag": true
     },
     "378746510596243458": {
       "hash": "27c01fc5a15510e130030728ce86e0c785038454e101574535ba4437036f5c16348a79688a68eed02dc929645d6f3db4ff1ee5632ced7b1e7268c2151bb7a3ad",
@@ -795,6 +795,23 @@
             "b": 255
           },
           "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "0615db6cb2868b82ccfd92380a4f142f64474f9522bece1bd413cfcea0477c5621892bd336a4c645a9867c2013e3cbf0a0bdf45406af3f61ccd9af5575d20ed4": {
+      "NameColor": {
+        "r": 5,
+        "g": 5,
+        "b": 175
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 5,
+            "g": 5,
+            "b": 175
+          },
+          "TagText": "[VAPE PRIVATE] (abuser)"
         }
       ]
     }
