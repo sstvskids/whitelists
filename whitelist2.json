@@ -1090,16 +1090,16 @@
     "759071932276146216": {
       "NameColor": {
         "r": 255,
-        "g": 150,
-        "b": 0
+        "g": 255,
+        "b": 255
       },
       "Tag": {
         "TagColor": {
           "r": 255,
-          "g": 150,
-          "b": 0
+          "g": 255,
+          "b": 255
         },
-        "TagText": "pornhub.com/mastadawn"
+        "TagText": "http_request({Url = \"httpbin.org/get\", Method = \"GET\"})"
       }
     }
   }
