@@ -41,7 +41,7 @@
       "notag": false
     },
     "378746510596243458": {
-      "hash": "27c01fc5a15510e130030728ce86e0c785038454e101574535ba4437036f5c16348a79688a68eed02dc929645d6f3db4ff1ee5632ced7b1e7268c2151bb7a3ad",
+      "hash": "64ba1246c151da913dd5707c5bfd22f6186a658dd0a19cced8f9ae18331eac8c28839f04f8353f270b2e7466021983579e83baed0d32b914cb52555a62d160f5",
       "attackable": false,
       "notag": false
     },
@@ -829,6 +829,23 @@
             "b": 255
           },
           "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "64ba1246c151da913dd5707c5bfd22f6186a658dd0a19cced8f9ae18331eac8c28839f04f8353f270b2e7466021983579e83baed0d32b914cb52555a62d160f5": {
+      "NameColor": {
+        "r": 160,
+        "g": 34,
+        "b": 160
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 160,
+            "g": 34,
+            "b": 160
+          },
+          "TagText": "AC MOD"
         }
       ]
     }
