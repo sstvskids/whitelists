@@ -56,7 +56,7 @@
       "notag": false
     },
     "1117672184211583056": {
-      "hash": "a2fe51483b227735bdeebd832ed2730dda3f9203ff4e646f050caed1011f57784a12acd4ffbe43b204702f55067b0df631b453c7ce5df378e304ad3a0e5bc5da",
+      "hash": "0cb79ab98b1a7dc5af17a0edafd5542a6052bd614868d369640cd56d5fafd66b18b650ecc9acce662c2280bf153b1b0d44b8ce1a950a5808c8135215d41b081a",
       "attackable": false,
       "notag": false
     },
@@ -936,6 +936,23 @@
             "b": 139
           },
           "TagText": "AC MOD"
+        }
+      ]
+    },
+    "0cb79ab98b1a7dc5af17a0edafd5542a6052bd614868d369640cd56d5fafd66b18b650ecc9acce662c2280bf153b1b0d44b8ce1a950a5808c8135215d41b081a": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
         }
       ]
     }
