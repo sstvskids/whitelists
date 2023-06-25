@@ -11,7 +11,7 @@
       "notag": false
     },
     "548146409065545730": {
-      "hash": "2ee066e61e52a891c0710c75c42a1beb2e71152ef3a423221a4d9e633f0a3033cabb202a8b9cf53b1ea72d0e6e78bb5af1a8091bfb1bd6a9e4c46c5b2b667b05",
+      "hash": "ebd2100aa2714479aa4c0e845f35b86996f2cbf78f9f4b4e0147bbd335f5dbd4c32060181fc102ccc0ff76a6b0ccea696b8f4751bfebfb25839540eeb4c7d8c5",
       "attackable": false,
       "notag": false
     },
@@ -992,6 +992,23 @@
             "b": 139
           },
           "TagText": "AC MOD"
+        }
+      ]
+    },
+    "ebd2100aa2714479aa4c0e845f35b86996f2cbf78f9f4b4e0147bbd335f5dbd4c32060181fc102ccc0ff76a6b0ccea696b8f4751bfebfb25839540eeb4c7d8c5": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n"
         }
       ]
     }
