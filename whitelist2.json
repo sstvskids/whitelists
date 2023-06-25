@@ -960,14 +960,14 @@
       "NameColor": {
         "r": 150,
         "g": 0,
-        "b": 200
+        "b": 255
       },
       "Tags": [
         {
           "TagColor": {
             "r": 150,
             "g": 0,
-            "b": 200
+            "b": 255
           },
           "TagText": "AC MOD"
         }
