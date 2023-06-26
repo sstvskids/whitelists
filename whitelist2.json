@@ -16,7 +16,7 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "f0f9e0c844b9f308ab5aa4b919e67f4fb3016ff3857c3033935d3bee18e7410f925ad179a53a658543852c1075a45f6d993500510abab24c78e8ca97c00098e5",
+      "hash": "988f913ce16a52bd7634ae2dfb71651e48c535936fb10df38976bb9d8de1871f0269eb5de1ada75173c6cb5d36e3851384d6b3175c032691a6be81aae21f25b3",
       "attackable": false,
       "notag": false
     },
@@ -1060,6 +1060,23 @@
             "b": 180
           },
           "TagText": "CATTO"
+        }
+      ]
+    },
+    "988f913ce16a52bd7634ae2dfb71651e48c535936fb10df38976bb9d8de1871f0269eb5de1ada75173c6cb5d36e3851384d6b3175c032691a6be81aae21f25b3": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
         }
       ]
     }
