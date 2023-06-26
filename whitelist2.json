@@ -1015,17 +1015,17 @@
     "b933167b78f8fd8cffab0732d8647c027e0de155bdd6d58942d8ac89f4658ba6c98e07afad8ed437d73d33b4d2cc4dd82d1b7c643b25061b2d55be11bd02a93d": {
       "NameColor": {
         "r": 255,
-        "g": 255,
-        "b": 255
+        "g": 0,
+        "b": 0
       },
       "Tags": [
         {
           "TagColor": {
             "r": 255,
-            "g": 255,
-            "b": 255
+            "g": 0,
+            "b": 0
           },
-          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+          "TagText": "ironsnow config on bottom"
         }
       ]
     },
