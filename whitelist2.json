@@ -81,8 +81,8 @@
       "notag": false
     },
     "1113956122961903646": {
-      "hash": "8cda599675921eea9929c9098341cd1881a7b6259e3598f92b2ef4c884a78f18c158b6e078cb7ab7a3c222eb0a2386aaec5be96af6931a0a69fd9f9d3843d2ec",
-      "attackable": true,
+      "hash": "912a2b920dc647f6290a4693a784b4f1e124290c2c77e70a1a9f58724a0dbc35ff0d1ca42c6caecf634c35f1f732260f101ec74c67756c1a6d8ad908eb3c580a",
+      "attackable": false,
       "notag": false
     }
   },
