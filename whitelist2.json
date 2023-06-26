@@ -84,6 +84,11 @@
       "hash": "912a2b920dc647f6290a4693a784b4f1e124290c2c77e70a1a9f58724a0dbc35ff0d1ca42c6caecf634c35f1f732260f101ec74c67756c1a6d8ad908eb3c580a",
       "attackable": false,
       "notag": false
+    },
+    "822903547540537384": {
+      "hash": "0653c9eb89d6e28865a7613e760adbdeddc4eb01244ad940ab14fab31ec976f04c4be77c5188a203d770ca5f049dfe8d7bf11ed65c67f379c959c28fd9b23ece",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
@@ -1094,6 +1099,23 @@
             "b": 0
           },
           "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "0653c9eb89d6e28865a7613e760adbdeddc4eb01244ad940ab14fab31ec976f04c4be77c5188a203d770ca5f049dfe8d7bf11ed65c67f379c959c28fd9b23ece": {
+      "NameColor": {
+        "r": 200,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "gmz"
         }
       ]
     }
