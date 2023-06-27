@@ -21,7 +21,7 @@
       "notag": false
     },
     "1077461832056442901": {
-      "hash": "b933167b78f8fd8cffab0732d8647c027e0de155bdd6d58942d8ac89f4658ba6c98e07afad8ed437d73d33b4d2cc4dd82d1b7c643b25061b2d55be11bd02a93d",
+      "hash": "0baa95231dd81f717b3bad0d313c714331b6170bc8fdf9cfc3b6b967ed9975249fdfb1d4f246eaef6b997ccf086937483052181b08efe12d4a3fa3a9bd6aa6d9",
       "attackable": false,
       "notag": false
     },
@@ -1150,6 +1150,23 @@
             "b": 77
           },
           "TagText": "VaperV5"
+        }
+      ]
+    },
+    "0baa95231dd81f717b3bad0d313c714331b6170bc8fdf9cfc3b6b967ed9975249fdfb1d4f246eaef6b997ccf086937483052181b08efe12d4a3fa3a9bd6aa6d9": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "ironsnow config on bottom"
         }
       ]
     }
