@@ -16,7 +16,7 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "17338fbc0158080550c5eaf7e53053a16495fc9b8536643c48cf7543f88c865926eee92c9538bfece2a342da53b1f56b8d0c664dbe45ed7790fa77c0fda74a37",
+      "hash": "e34dfe4efc3ce76b826a237820ac25dd54989d537d63ee0fa528ded3b6c405646ae226d0f91683a2b93eb4fdb56d42c4c6271a543bc3fa1a095e83a0c1f4a34a",
       "attackable": false,
       "notag": false
     },
@@ -1167,6 +1167,23 @@
             "b": 0
           },
           "TagText": "ironsnow config on bottom"
+        }
+      ]
+    },
+    "e34dfe4efc3ce76b826a237820ac25dd54989d537d63ee0fa528ded3b6c405646ae226d0f91683a2b93eb4fdb56d42c4c6271a543bc3fa1a095e83a0c1f4a34a": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
         }
       ]
     }
