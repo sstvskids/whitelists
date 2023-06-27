@@ -71,7 +71,7 @@
       "notag": false
     },
     "759071932276146216": {
-      "hash": "c9c49c4140c161e07fee2d2af12bb1eb8afbfcaaa5f304b624479c77d6253e8a39f370ffc34b6f355d0d3a7860a3366d601e2a9e06120c8ad54b9fc12670d4b1",
+      "hash": "58ee0a094d3952b63a721e7a82aa97c238863c588a0c90b4abeb09b7b65853ee5b98933f6526335aa063c850e9bde293af98d58db1b7e8537a82ddcc363e42af",
       "attackable": false,
       "notag": false
     },
@@ -1133,6 +1133,23 @@
             "b": 180
           },
           "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "58ee0a094d3952b63a721e7a82aa97c238863c588a0c90b4abeb09b7b65853ee5b98933f6526335aa063c850e9bde293af98d58db1b7e8537a82ddcc363e42af": {
+      "NameColor": {
+        "r": 255,
+        "g": 77,
+        "b": 77
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 77,
+            "b": 77
+          },
+          "TagText": "VaperV5"
         }
       ]
     }
