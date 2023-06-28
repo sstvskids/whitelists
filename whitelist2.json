@@ -91,8 +91,8 @@
       "notag": false
     },
     "1082818505474314272": {
-      "hash": "d81d5cc39ad2c5a61b666a71b029d587df80577de43231b8b73b5c707ce1964aea019c15d2e5e404f00d3016c211297e9ba877f804a34e820b527014402abb08",
-      "attackable": true,
+      "hash": "16d444f7c9c1dd84b3392f5a07da42ba891348f6a0541783772ae056e8d7e580af53fcacbb86a959167220508ff416a9b59b12faf0270f4c769c5ba094bbe70d",
+      "attackable": false,
       "notag": false
     }
   },
@@ -1291,6 +1291,23 @@
             "b": 160
           },
           "TagText": "AC MOD"
+        }
+      ]
+    },
+    "16d444f7c9c1dd84b3392f5a07da42ba891348f6a0541783772ae056e8d7e580af53fcacbb86a959167220508ff416a9b59b12faf0270f4c769c5ba094bbe70d": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "realman"
         }
       ]
     }
