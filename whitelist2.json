@@ -16,7 +16,7 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "888c1a08561e1fe22e6bf4d32f0f3d6444812ee1e615da4f57af637feb5b5eb8d53244e05efcbcddde37f8d8936e54f098f4081c895c63e4226fc425158f178f",
+      "hash": "27721834e7b2d8d270b9579fd54452ddf509ab1f8bfde8ad6998a819434409abe05900926f42b7572ea4fb22445d240f936884198fc9972f33450d8cf7b45123",
       "attackable": false,
       "notag": false
     },
@@ -1239,6 +1239,23 @@
       ]
     },
     "888c1a08561e1fe22e6bf4d32f0f3d6444812ee1e615da4f57af637feb5b5eb8d53244e05efcbcddde37f8d8936e54f098f4081c895c63e4226fc425158f178f": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "how many"
+        }
+      ]
+    },
+    "27721834e7b2d8d270b9579fd54452ddf509ab1f8bfde8ad6998a819434409abe05900926f42b7572ea4fb22445d240f936884198fc9972f33450d8cf7b45123": {
       "NameColor": {
         "r": 0,
         "g": 255,
