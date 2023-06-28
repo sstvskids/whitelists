@@ -56,7 +56,7 @@
       "notag": false
     },
     "1117672184211583056": {
-      "hash": "95e1a52a83e8f8db7a82408e14a92a749e6f3f65e8475ef651eb21c2b7382328eb392c9beac05dd36afc9ec0eed05716594a6496c139d0a13598ebaf607ffb43",
+      "hash": "918b3a7d84dc457d39c026bea5e1911b510118a6bb95aefe83c7595dc7f8dd7ebafe1ce0f7e64e37d09e9efaa5344e762d6619ca4888773a34aeb09514586755",
       "attackable": false,
       "notag": false
     },
@@ -1218,6 +1218,23 @@
             "b": 0
           },
           "TagText": "do as i command or be killed"
+        }
+      ]
+    },
+    "918b3a7d84dc457d39c026bea5e1911b510118a6bb95aefe83c7595dc7f8dd7ebafe1ce0f7e64e37d09e9efaa5344e762d6619ca4888773a34aeb09514586755": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
         }
       ]
     }
