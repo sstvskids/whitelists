@@ -1723,6 +1723,21 @@
         },
         "TagText": "AC MOD"
       }
+    },
+    "705698080993050645": {
+      "NameColor": {
+        "r": 99,
+        "g": 69,
+        "b": 75
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 99,
+          "g": 69,
+          "b": 75
+        },
+        "TagText": "frost queen"
+      }
     }
   }
 }
