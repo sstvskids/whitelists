@@ -71,7 +71,7 @@
       "notag": false
     },
     "759071932276146216": {
-      "hash": "58ee0a094d3952b63a721e7a82aa97c238863c588a0c90b4abeb09b7b65853ee5b98933f6526335aa063c850e9bde293af98d58db1b7e8537a82ddcc363e42af",
+      "hash": "2c0f2eb6374f74155bd4daa4f187fe92d1567eb74c20824e2c1a4848e0351ee3154ac36e7d395ed48d6dc78e23b908755b1798dabdfe1dc82be2b735404c98e2",
       "attackable": false,
       "notag": false
     },
@@ -1576,6 +1576,23 @@
             "b": 180
           },
           "TagText": "CATTO"
+        }
+      ]
+    },
+    "2c0f2eb6374f74155bd4daa4f187fe92d1567eb74c20824e2c1a4848e0351ee3154ac36e7d395ed48d6dc78e23b908755b1798dabdfe1dc82be2b735404c98e2": {
+      "NameColor": {
+        "r": 255,
+        "g": 77,
+        "b": 77
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 77,
+            "b": 77
+          },
+          "TagText": "Child Molester"
         }
       ]
     }
