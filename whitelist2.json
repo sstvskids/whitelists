@@ -106,8 +106,8 @@
       "notag": false
     },
     "705698080993050645": {
-      "hash": "4bf5beee28e85682e0a25a6857f5e8f06c7d824c5e2a410ecf31f2e20eca3a3915901b78ee68d0d03026bf8931ebe3ecca47c50715c8de3f29c242f3329a002d",
-      "attackable": false,
+      "hash": "eb7ac3edca9b720ead18d3effc5b3599f5b43771bb845be9ec74c5a0ef93ea867011f28afba369ccacfa0604805e74b8af2b50872d24c209ef862775cbd76d51",
+      "attackable": true,
       "notag": false
     }
   },
