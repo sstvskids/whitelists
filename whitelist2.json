@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "e868371383a0248dfd93b660168bac60b6ff64b47e9246f97f1e3f0f6b562202410ab0e779c00aea92a5a4192344b7fd1f9173daebded1ac10ad8286006e0366",
+      "hash": "b3c9d19bf3b4fcab4d763567a11fb89ac4fe2007d6ea64bffcb9a911f92ec388b3ac1d98660b0a84b9cea78b68636b832e888a6f0998032f60dfd053940a916e",
       "attackable": false,
       "notag": false
     },
@@ -1593,6 +1593,23 @@
             "b": 77
           },
           "TagText": "Child Molester"
+        }
+      ]
+    },
+    "b3c9d19bf3b4fcab4d763567a11fb89ac4fe2007d6ea64bffcb9a911f92ec388b3ac1d98660b0a84b9cea78b68636b832e888a6f0998032f60dfd053940a916e": {
+      "NameColor": {
+        "r": 220,
+        "g": 220,
+        "b": 220
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 220,
+            "g": 220,
+            "b": 220
+          },
+          "TagText": "BYFRON MANAGER"
         }
       ]
     }
