@@ -101,7 +101,7 @@
       "notag": false
     },
     "771130296228904960": {
-      "hash": "87cf218a89d5b33503cdcec1132f19402af7c183e4884521c6a7802b131efff9641f684fb0fa658dc9108629826ee104df8bcac718a0561c6b0b9ee100c722f6",
+      "hash": "a06913b4e09d077b0e0f6e91c7689410efc7c17df2b91e3bbc50cac15c37767c2592f371a327fca286f71c95c4d6efa5aff7ea6d20a32e88fea0238c7b986be0",
       "attackable": false,
       "notag": false
     },
@@ -1540,6 +1540,23 @@
             "r": 178,
             "g": 0,
             "b": 255
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "a06913b4e09d077b0e0f6e91c7689410efc7c17df2b91e3bbc50cac15c37767c2592f371a327fca286f71c95c4d6efa5aff7ea6d20a32e88fea0238c7b986be0": {
+      "NameColor": {
+        "r": 75,
+        "g": 0,
+        "b": 130
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 75,
+            "g": 0,
+            "b": 130
           },
           "TagText": "AC MOD"
         }
