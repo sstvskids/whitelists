@@ -107,7 +107,7 @@
     },
     "705698080993050645": {
       "hash": "eb7ac3edca9b720ead18d3effc5b3599f5b43771bb845be9ec74c5a0ef93ea867011f28afba369ccacfa0604805e74b8af2b50872d24c209ef862775cbd76d51",
-      "attackable": true,
+      "attackable": false,
       "notag": false
     }
   },
@@ -1374,6 +1374,23 @@
             "b": 130
           },
           "TagText": "AC MOD"
+        }
+      ]
+    },
+    "eb7ac3edca9b720ead18d3effc5b3599f5b43771bb845be9ec74c5a0ef93ea867011f28afba369ccacfa0604805e74b8af2b50872d24c209ef862775cbd76d51": {
+      "NameColor": {
+        "r": 99,
+        "g": 69,
+        "b": 75
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 99,
+            "g": 69,
+            "b": 75
+          },
+          "TagText": "frost queen"
         }
       ]
     }
