@@ -99,6 +99,11 @@
       "hash": "8f087ed5f6653d2b21320a4de8db1c740986b6f3640fca655604bf75907c8585705e54cbfa009af5ff4158649c72372da3ccd0b9a156d0f4cd34c0ce1faa752d",
       "attackable": false,
       "notag": true
+    },
+    "771130296228904960": {
+      "hash": "87cf218a89d5b33503cdcec1132f19402af7c183e4884521c6a7802b131efff9641f684fb0fa658dc9108629826ee104df8bcac718a0561c6b0b9ee100c722f6",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
@@ -1347,6 +1352,23 @@
             "b": 0
           },
           "TagText": "\ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd"
+        }
+      ]
+    },
+    "87cf218a89d5b33503cdcec1132f19402af7c183e4884521c6a7802b131efff9641f684fb0fa658dc9108629826ee104df8bcac718a0561c6b0b9ee100c722f6": {
+      "NameColor": {
+        "r": 75,
+        "g": 0,
+        "b": 130
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 75,
+            "g": 0,
+            "b": 130
+          },
+          "TagText": "AC MOD"
         }
       ]
     }
