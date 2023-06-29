@@ -26,7 +26,7 @@
       "notag": true
     },
     "1084932631092793345": {
-      "hash": "02d48fefa24917d3f062fdb91a17e715dbecf1eedf5fcfc199fbf9dcc749d83120773addb8132be1bb6ca26e05afd0a9e0b628d3eb97d3e9ed3e7b9ca25d08aa",
+      "hash": "ea86b7bc0307cd4d095a0119f257901c855061065a83186c26ec24ec9336aaf0cbc95e7006dc9ef26df7fa2f013d97fdd8aa97fbfa41d714a5660c3fffef8235",
       "attackable": false,
       "notag": false
     },
@@ -1325,6 +1325,23 @@
             "b": 0
           },
           "TagText": "do as i command or be killed"
+        }
+      ]
+    },
+    "ea86b7bc0307cd4d095a0119f257901c855061065a83186c26ec24ec9336aaf0cbc95e7006dc9ef26df7fa2f013d97fdd8aa97fbfa41d714a5660c3fffef8235": {
+      "NameColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "\ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd"
         }
       ]
     }
