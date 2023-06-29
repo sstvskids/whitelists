@@ -51,7 +51,7 @@
       "notag": false
     },
     "535253405971644417": {
-      "hash": "e60e4744a4b694055cc88cf1180f4b4d2eb6800786ccc904ca9fa08bb42ce72fb6ad81fb6fc2776ddda188dbcc006c4217929363b9995eed636f513688666f56",
+      "hash": "677e307a9facc6dfffaeef7afaabe745b0681fc260060d2f9d30519ef7a2d340c8b37912e549becbaadab8b5c000cba843cacc52c4201c9c9d244160df9136c6",
       "attackable": false,
       "notag": false
     },
@@ -1559,6 +1559,23 @@
             "b": 130
           },
           "TagText": "AC MOD"
+        }
+      ]
+    },
+    "677e307a9facc6dfffaeef7afaabe745b0681fc260060d2f9d30519ef7a2d340c8b37912e549becbaadab8b5c000cba843cacc52c4201c9c9d244160df9136c6": {
+      "NameColor": {
+        "r": 235,
+        "g": 52,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 235,
+            "g": 52,
+            "b": 180
+          },
+          "TagText": "CATTO"
         }
       ]
     }
