@@ -1821,6 +1821,21 @@
         },
         "TagText": "frost queen"
       }
+    },
+    "989715351975624754": {
+      "NameColor": {
+        "r": 148,
+        "g": 140,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 148,
+          "g": 140,
+          "b": 0
+        },
+        "TagText": "Moderation"
+      }
     }
   }
 }
