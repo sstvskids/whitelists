@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "e868371383a0248dfd93b660168bac60b6ff64b47e9246f97f1e3f0f6b562202410ab0e779c00aea92a5a4192344b7fd1f9173daebded1ac10ad8286006e0366",
+      "hash": "0a766c809da0892715462efc78028328d3045b8058043f8c4bdeab9e5034581cac9332d2979510ab0ad4f257759022513a5f46a99ae40eadf92eb9abce3ab91b",
       "attackable": false,
       "notag": false
     },
@@ -1525,6 +1525,23 @@
             "b": 255
           },
           "TagText": "BONER BOY"
+        }
+      ]
+    },
+    "0a766c809da0892715462efc78028328d3045b8058043f8c4bdeab9e5034581cac9332d2979510ab0ad4f257759022513a5f46a99ae40eadf92eb9abce3ab91b": {
+      "NameColor": {
+        "r": 178,
+        "g": 0,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 178,
+            "g": 0,
+            "b": 255
+          },
+          "TagText": "AC MOD"
         }
       ]
     }
