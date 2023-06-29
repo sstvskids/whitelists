@@ -1870,6 +1870,21 @@
         },
         "TagText": "MODERATIOn"
       }
+    },
+    "844740591275212811": {
+      "NameColor": {
+        "r": 255,
+        "g": 192,
+        "b": 203
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 192,
+          "b": 203
+        },
+        "TagText": "homophobe"
+      }
     }
   }
 }
