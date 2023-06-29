@@ -119,6 +119,11 @@
       "hash": "ed11e39f3067f50e63481bbfd86c4b331a90d11750b8cc891b2a7117220a9d854cb178b489ad9a5a230db1b32098739122336611869ddf9f292bf8a804f4b90f",
       "attackable": false,
       "notag": false
+    },
+    "844740591275212811": {
+      "hash": "39ba30fdd084a7a2de704e67c0922fb96c0d6368c2a1b8fd186c45d413ed3c0ee37224e75a0da5e9964ae54ba787f37c48adeacfe351b5fafb106b233680e699",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
