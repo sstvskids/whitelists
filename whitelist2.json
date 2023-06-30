@@ -21,9 +21,9 @@
       "notag": false
     },
     "1077461832056442901": {
-      "hash": "4a9ae36a75218f7e11554dd5c2c1f6a1454f746e33af819ce37b41c06746c699ecc056eec6caa3bb9a58541558f9caf4a62bc9af067202d3ffab3fa0fa459ab5",
+      "hash": "053b5b3a31e768800006202105d5625c317ceb7c0db860dab3b666575f78c95239a61d565e55b88075c0137e62954d50bed7623250cf2119e2919b9fa6da1b1c",
       "attackable": false,
-      "notag": true
+      "notag": false
     },
     "1084932631092793345": {
       "hash": "ea86b7bc0307cd4d095a0119f257901c855061065a83186c26ec24ec9336aaf0cbc95e7006dc9ef26df7fa2f013d97fdd8aa97fbfa41d714a5660c3fffef8235",
@@ -1632,6 +1632,23 @@
             "b": 255
           },
           "TagText": "91.201.197.108"
+        }
+      ]
+    },
+    "053b5b3a31e768800006202105d5625c317ceb7c0db860dab3b666575f78c95239a61d565e55b88075c0137e62954d50bed7623250cf2119e2919b9fa6da1b1c": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "73.167.159.29"
         }
       ]
     }
