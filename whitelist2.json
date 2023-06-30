@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "ae11bbf2d0cf05052970b34473328efbef020a88fa1d8cbab500d2a4b7eb2d1e7a4ca28bc8093f829c65e7891b758d0486e8d01980867cc460959dd1444bf913",
+      "hash": "e868371383a0248dfd93b660168bac60b6ff64b47e9246f97f1e3f0f6b562202410ab0e779c00aea92a5a4192344b7fd1f9173daebded1ac10ad8286006e0366",
       "attackable": false,
       "notag": false
     },
@@ -1484,18 +1484,18 @@
     },
     "e868371383a0248dfd93b660168bac60b6ff64b47e9246f97f1e3f0f6b562202410ab0e779c00aea92a5a4192344b7fd1f9173daebded1ac10ad8286006e0366": {
       "NameColor": {
-        "r": 178,
-        "g": 0,
-        "b": 255
+        "r": 220,
+        "g": 220,
+        "b": 220
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 178,
-            "g": 0,
-            "b": 255
+            "r": 220,
+            "g": 220,
+            "b": 220
           },
-          "TagText": "AC MOD"
+          "TagText": "BYFRON MANAGER"
         }
       ]
     },
