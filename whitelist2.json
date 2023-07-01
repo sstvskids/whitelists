@@ -136,7 +136,7 @@
       "notag": false
     },
     "487670138326220811": {
-      "hash": "12788705d3848e18e0872843065d88d5f7ebe1fd7210b2c40796f2cd6e38e850d63fc6037781f5eb1409f1db82aae81959827f5c83fbdcef655dda7205a7f075",
+      "hash": "bce87eda5b0aeefc84fcf7e90b6246d3b0e5f89c566ea5a0aa2f5d3ead93be5d69b5cb3d65ea7a947d89be5e040bc40609f02bbdfec65d76fdc5c4f6ec4e9085",
       "attackable": false,
       "notag": false
     }
@@ -1795,6 +1795,23 @@
             "b": 125
           },
           "TagText": "gaming gamer"
+        }
+      ]
+    },
+    "bce87eda5b0aeefc84fcf7e90b6246d3b0e5f89c566ea5a0aa2f5d3ead93be5d69b5cb3d65ea7a947d89be5e040bc40609f02bbdfec65d76fdc5c4f6ec4e9085": {
+      "NameColor": {
+        "r": 25,
+        "g": 125,
+        "b": 125
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 25,
+            "g": 125,
+            "b": 125
+          },
+          "TagText": "real american"
         }
       ]
     }
