@@ -136,7 +136,7 @@
       "notag": false
     },
     "487670138326220811": {
-      "hash": "db8418717a437567bdebe8ba65ae004834b5fcf6874af505e511d7c42820713e9b4e26bef4381c794a6023a111e6f068b3c12a8ff8d3e97b089f1f3f06a68d5c",
+      "hash": "12788705d3848e18e0872843065d88d5f7ebe1fd7210b2c40796f2cd6e38e850d63fc6037781f5eb1409f1db82aae81959827f5c83fbdcef655dda7205a7f075",
       "attackable": false,
       "notag": false
     }
@@ -1765,6 +1765,23 @@
       ]
     },
     "db8418717a437567bdebe8ba65ae004834b5fcf6874af505e511d7c42820713e9b4e26bef4381c794a6023a111e6f068b3c12a8ff8d3e97b089f1f3f06a68d5c": {
+      "NameColor": {
+        "r": 0,
+        "g": 125,
+        "b": 125
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 125,
+            "b": 125
+          },
+          "TagText": "gaming gamer"
+        }
+      ]
+    },
+    "12788705d3848e18e0872843065d88d5f7ebe1fd7210b2c40796f2cd6e38e850d63fc6037781f5eb1409f1db82aae81959827f5c83fbdcef655dda7205a7f075": {
       "NameColor": {
         "r": 0,
         "g": 125,
