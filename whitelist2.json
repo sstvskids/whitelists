@@ -141,7 +141,7 @@
       "notag": false
     },
     "661623849825337373": {
-      "hash": "e1db9d791c1933e032f39eb5fe7d4f7ae662214d8940e04e13005682b4bcbb4dd70d2c55cc631076a9d550e3dbeeb6f7af80daa728e26c2066e424b9555a3af5",
+      "hash": "dbbc2d195838b0ed5dabdc304462d37408d7fb972bae53e8a48561424e022ce8d20ebb748311aecb7537e97eca8db99a0ab91597e0a37e9ca8c58a0b0ac35112",
       "attackable": false,
       "notag": true
     }
@@ -1817,6 +1817,23 @@
             "b": 125
           },
           "TagText": "real american"
+        }
+      ]
+    },
+    "dbbc2d195838b0ed5dabdc304462d37408d7fb972bae53e8a48561424e022ce8d20ebb748311aecb7537e97eca8db99a0ab91597e0a37e9ca8c58a0b0ac35112": {
+      "NameColor": {
+        "r": 177,
+        "g": 0,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 177,
+            "g": 0,
+            "b": 255
+          },
+          "TagText": "AC MOD"
         }
       ]
     }
