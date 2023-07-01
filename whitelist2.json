@@ -106,9 +106,9 @@
       "notag": false
     },
     "705698080993050645": {
-      "hash": "b51d0d0745ee67814bea2ebceae2a2f8be2b76595ae5d31db45e0e17d288a5ff4c4581db19d564a952fbbf93e85fe40d0f975e1d109da7b6588c83e15f37d92a",
+      "hash": "967ed4a9f8c96e99594ec6ac6d4d8b3b41dfd7c4855c82059f62c93df35a0cc564ac3b3af2acbf0b32b4f503ad626c7c89fd6a62e06e9d2fd7b2a88a2ba2a9fb",
       "attackable": false,
-      "notag": false
+      "notag": true
     },
     "989715351975624754": {
       "hash": "0a6633b4e601002f4ae0ea0a0109ad22b7d7b5317224e6e6fe02546ab609662884b83cf8bfccd555d09e0cff2bc4b5c5e1a38d2fd8e0bc55ad2c2d62bf95b757",
@@ -1709,6 +1709,23 @@
       ]
     },
     "b51d0d0745ee67814bea2ebceae2a2f8be2b76595ae5d31db45e0e17d288a5ff4c4581db19d564a952fbbf93e85fe40d0f975e1d109da7b6588c83e15f37d92a": {
+      "NameColor": {
+        "r": 99,
+        "g": 69,
+        "b": 75
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 99,
+            "g": 69,
+            "b": 75
+          },
+          "TagText": "FrostQueenn"
+        }
+      ]
+    },
+    "967ed4a9f8c96e99594ec6ac6d4d8b3b41dfd7c4855c82059f62c93df35a0cc564ac3b3af2acbf0b32b4f503ad626c7c89fd6a62e06e9d2fd7b2a88a2ba2a9fb": {
       "NameColor": {
         "r": 99,
         "g": 69,
