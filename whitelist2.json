@@ -144,6 +144,11 @@
       "hash": "dbbc2d195838b0ed5dabdc304462d37408d7fb972bae53e8a48561424e022ce8d20ebb748311aecb7537e97eca8db99a0ab91597e0a37e9ca8c58a0b0ac35112",
       "attackable": false,
       "notag": true
+    },
+    "919665092025528441": {
+      "hash": "0a9637eb0aeae990e0b3446cffeae5889bbe56c100312b1b9cded0f2de27657ccbc91ae1f99e90570fe7f1d26801401140f3d35a4a2db81702499752f82a2d30",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
