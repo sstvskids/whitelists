@@ -41,9 +41,9 @@
       "notag": false
     },
     "378746510596243458": {
-      "hash": "27f6ff9b9796b6011f6a361f1d023ce8f4887140975f810f74edae65be722123e1054a93974b4f6bdeb105774139e1f31654c043acb0d79948dcc4052f7a3311",
-      "attackable": false,
-      "notag": false
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "attackable": true,
+      "notag": true
     },
     "349173600877674507": {
       "hash": "6575cf0c58bb8b8f8c23104f9f298686e970a140e542e463959beb96a1d03ce1f90c2a4748cc70154585fc7765148849139f88092e96340b90a48ff6082a6029",
@@ -401,18 +401,18 @@
     },
     "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c": {
       "NameColor": {
-        "r": 3,
-        "g": 207,
-        "b": 252
+        "r": 160,
+        "g": 34,
+        "b": 160
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 3,
-            "g": 207,
-            "b": 252
+            "r": 160,
+            "g": 34,
+            "b": 160
           },
-          "TagText": "PRISM OWNER"
+          "TagText": "AC MOD"
         }
       ]
     },
