@@ -131,7 +131,7 @@
       "notag": true
     },
     "1000432733467721799": {
-      "hash": "cdeb609d08f8bd9a77c97040bc7f2cb4c407241203c091de8e20c1dbc3f05827da66dc64bbdc34ab7e6e61d33cbdcc5c9022f14e6e004a6f2eb18e041e3267e2",
+      "hash": "0b8beb06e29620ab628b43bdf3233dd9b148c37b6e4993b254662aad09ec4a84a76025b3b5187d9c261c12f3545efe5f4a2304f3e1736216148d9842036c76f3",
       "attackable": false,
       "notag": false
     }
@@ -1688,6 +1688,23 @@
             "b": 160
           },
           "TagText": "AC MOD"
+        }
+      ]
+    },
+    "0b8beb06e29620ab628b43bdf3233dd9b148c37b6e4993b254662aad09ec4a84a76025b3b5187d9c261c12f3545efe5f4a2304f3e1736216148d9842036c76f3": {
+      "NameColor": {
+        "r": 50,
+        "g": 50,
+        "b": 50
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 50,
+            "g": 50,
+            "b": 50
+          },
+          "TagText": "QWERTYUI"
         }
       ]
     }
