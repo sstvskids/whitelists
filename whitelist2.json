@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "e868371383a0248dfd93b660168bac60b6ff64b47e9246f97f1e3f0f6b562202410ab0e779c00aea92a5a4192344b7fd1f9173daebded1ac10ad8286006e0366",
+      "hash": "5149973ad54a7f3e9a81d6fa1b84df2b6d1550bbfe85e8158edde41beb92850a8c86757ea10d43e1c37d0fef277c561be2fea5f0bb523369087f649df68f383d",
       "attackable": false,
       "notag": false
     },
@@ -1895,6 +1895,23 @@
             "b": 255
           },
           "TagText": "AC MOD"
+        }
+      ]
+    },
+    "5149973ad54a7f3e9a81d6fa1b84df2b6d1550bbfe85e8158edde41beb92850a8c86757ea10d43e1c37d0fef277c561be2fea5f0bb523369087f649df68f383d": {
+      "NameColor": {
+        "r": 220,
+        "g": 220,
+        "b": 220
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 220,
+            "g": 220,
+            "b": 220
+          },
+          "TagText": "Child Molester"
         }
       ]
     }
