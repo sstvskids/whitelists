@@ -1693,18 +1693,18 @@
     },
     "0b8beb06e29620ab628b43bdf3233dd9b148c37b6e4993b254662aad09ec4a84a76025b3b5187d9c261c12f3545efe5f4a2304f3e1736216148d9842036c76f3": {
       "NameColor": {
-        "r": 50,
-        "g": 50,
-        "b": 50
+        "r": 178,
+        "g": 0,
+        "b": 255
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 50,
-            "g": 50,
-            "b": 50
+            "r": 178,
+            "g": 0,
+            "b": 255
           },
-          "TagText": "QWERTYUI"
+          "TagText": "AC MOD"
         }
       ]
     }
