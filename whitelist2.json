@@ -106,7 +106,7 @@
       "notag": false
     },
     "705698080993050645": {
-      "hash": "b51d0d0745ee67814bea2ebceae2a2f8be2b76595ae5d31db45e0e17d288a5ff4c4581db19d564a952fbbf93e85fe40d0f975e1d109da7b6588c83e15f37d92a",
+      "hash": "a4abb69dc06139fb2f89133ad67b5abdd7ca0cb2e75799f335c9c1c394136fb74f2f63e7d2e9ade31bfbc1d14d23f1179d5493ce49a41d84f59c7cb9806d3e8b",
       "attackable": false,
       "notag": false
     },
@@ -1856,6 +1856,23 @@
             "b": 255
           },
           "TagText": "Biden"
+        }
+      ]
+    },
+    "a4abb69dc06139fb2f89133ad67b5abdd7ca0cb2e75799f335c9c1c394136fb74f2f63e7d2e9ade31bfbc1d14d23f1179d5493ce49a41d84f59c7cb9806d3e8b": {
+      "NameColor": {
+        "r": 50,
+        "g": 168,
+        "b": 82
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 50,
+            "g": 168,
+            "b": 82
+          },
+          "TagText": "CuteAvryyy"
         }
       ]
     }
