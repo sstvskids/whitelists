@@ -1841,6 +1841,23 @@
           "TagText": "AC MOD"
         }
       ]
+    },
+    "0a9637eb0aeae990e0b3446cffeae5889bbe56c100312b1b9cded0f2de27657ccbc91ae1f99e90570fe7f1d26801401140f3d35a4a2db81702499752f82a2d30": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "Biden"
+        }
+      ]
     }
   },
   "specialusers": {
