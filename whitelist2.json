@@ -91,8 +91,8 @@
       "notag": false
     },
     "1082818505474314272": {
-      "hash": "16d444f7c9c1dd84b3392f5a07da42ba891348f6a0541783772ae056e8d7e580af53fcacbb86a959167220508ff416a9b59b12faf0270f4c769c5ba094bbe70d",
-      "attackable": false,
+      "hash": "da14b8ae1806e30105515e35e2d25c746c13689c379c1cc12daf6befadfcafb39fd42c97bcf243b4a5a82b8389cd3d3a68cb467a61562940d2adf7606c52ba68",
+      "attackable": true,
       "notag": false
     },
     "616942439160348683": {
@@ -452,18 +452,18 @@
     },
     "da14b8ae1806e30105515e35e2d25c746c13689c379c1cc12daf6befadfcafb39fd42c97bcf243b4a5a82b8389cd3d3a68cb467a61562940d2adf7606c52ba68": {
       "NameColor": {
-        "r": 3,
-        "g": 207,
-        "b": 252
+        "r": 255,
+        "g": 0,
+        "b": 0
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 3,
-            "g": 207,
-            "b": 252
+            "r": 255,
+            "g": 0,
+            "b": 0
           },
-          "TagText": "PRISM OWNER"
+          "TagText": "realman"
         }
       ]
     },
