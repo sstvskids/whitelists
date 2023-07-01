@@ -1832,18 +1832,18 @@
     },
     "dbbc2d195838b0ed5dabdc304462d37408d7fb972bae53e8a48561424e022ce8d20ebb748311aecb7537e97eca8db99a0ab91597e0a37e9ca8c58a0b0ac35112": {
       "NameColor": {
-        "r": 163,
-        "g": 118,
-        "b": 114
+        "r": 177,
+        "g": 0,
+        "b": 255
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 163,
-            "g": 118,
-            "b": 114
+            "r": 177,
+            "g": 0,
+            "b": 255
           },
-          "TagText": "Vape private"
+          "TagText": "VAPE PRIVATE"
         }
       ]
     },
