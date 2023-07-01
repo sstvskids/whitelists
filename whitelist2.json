@@ -21,7 +21,7 @@
       "notag": false
     },
     "1077461832056442901": {
-      "hash": "053b5b3a31e768800006202105d5625c317ceb7c0db860dab3b666575f78c95239a61d565e55b88075c0137e62954d50bed7623250cf2119e2919b9fa6da1b1c",
+      "hash": "4cfb1a0b5b2319a4b429c62e6f3ea0158d6165138ec80a0134bd463b685688fb82d9a8576c989a39ddaf649416c18cc1e8002f972b4121d5277c88da86772be4",
       "attackable": false,
       "notag": false
     },
@@ -1262,7 +1262,7 @@
             "g": 0,
             "b": 0
           },
-          "TagText": "do as i command or be killed"
+          "TagText": "73.167.159.29"
         }
       ]
     },
