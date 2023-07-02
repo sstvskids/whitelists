@@ -26,7 +26,7 @@
       "notag": false
     },
     "1084932631092793345": {
-      "hash": "ea86b7bc0307cd4d095a0119f257901c855061065a83186c26ec24ec9336aaf0cbc95e7006dc9ef26df7fa2f013d97fdd8aa97fbfa41d714a5660c3fffef8235",
+      "hash": "0e64afde03fb9685794fb531f868b1ba313bf0f4b8a4cb0d375b9dc4c30cbce46980cadf6e0ea6a6f4f0e133bf6dd1bbf9850015b046e8ee7fb83192ec1d0518",
       "attackable": false,
       "notag": false
     },
@@ -2031,6 +2031,23 @@
             "b": 82
           },
           "TagText": "CuteAvryyy"
+        }
+      ]
+    },
+    "0e64afde03fb9685794fb531f868b1ba313bf0f4b8a4cb0d375b9dc4c30cbce46980cadf6e0ea6a6f4f0e133bf6dd1bbf9850015b046e8ee7fb83192ec1d0518": {
+      "NameColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "\ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd"
         }
       ]
     }
