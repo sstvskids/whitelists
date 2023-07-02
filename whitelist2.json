@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "e868371383a0248dfd93b660168bac60b6ff64b47e9246f97f1e3f0f6b562202410ab0e779c00aea92a5a4192344b7fd1f9173daebded1ac10ad8286006e0366",
+      "hash": "3102741093424473191863c8e83028ae6f329cfbfe0de05b93c70119411db7b108c9e483a70f7e6a7c08a8d72f32d76746e40945531dbd687f390ccfeb36d4c9",
       "attackable": false,
       "notag": false
     },
@@ -1929,6 +1929,23 @@
             "b": 102
           },
           "TagText": "inhalant user"
+        }
+      ]
+    },
+    "3102741093424473191863c8e83028ae6f329cfbfe0de05b93c70119411db7b108c9e483a70f7e6a7c08a8d72f32d76746e40945531dbd687f390ccfeb36d4c9": {
+      "NameColor": {
+        "r": 107,
+        "g": 160,
+        "b": 250
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 107,
+            "g": 160,
+            "b": 250
+          },
+          "TagText": "FORTNITE EPIC GAMES MODERATOR\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83e\udd71 \ud83e\udd71 \ud83e\udd2f\ud83d\ude08"
         }
       ]
     }
