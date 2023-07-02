@@ -1577,16 +1577,16 @@
     },
     "a06913b4e09d077b0e0f6e91c7689410efc7c17df2b91e3bbc50cac15c37767c2592f371a327fca286f71c95c4d6efa5aff7ea6d20a32e88fea0238c7b986be0": {
       "NameColor": {
-        "r": 75,
-        "g": 0,
-        "b": 130
+        "r": 160,
+        "g": 34,
+        "b": 160
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 75,
-            "g": 0,
-            "b": 130
+            "r": 160,
+            "g": 34,
+            "b": 160
           },
           "TagText": "AC MOD"
         }
