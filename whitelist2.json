@@ -2401,17 +2401,17 @@
     },
     "926508334855622726": {
       "NameColor": {
-        "r": 0,
+        "r": 85,
         "g": 0,
-        "b": 0
+        "b": 102
       },
       "Tag": {
         "TagColor": {
-          "r": 0,
+          "r": 85,
           "g": 0,
-          "b": 0
+          "b": 102
         },
-        "TagText": "VAPE OWNER"
+        "TagText": "inhalant user"
       }
     }
   }
