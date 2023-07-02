@@ -136,7 +136,7 @@
       "notag": false
     },
     "487670138326220811": {
-      "hash": "bce87eda5b0aeefc84fcf7e90b6246d3b0e5f89c566ea5a0aa2f5d3ead93be5d69b5cb3d65ea7a947d89be5e040bc40609f02bbdfec65d76fdc5c4f6ec4e9085",
+      "hash": "ae536b3cc157c6abb1a32b11747ccea9ef7b706c31bf4727f80bd8595d6fdbfe4bbf99b00399a6bb8ee506c45c1c0b4c0ddbf4d0cd195780e4a4d20deef19fdc",
       "attackable": false,
       "notag": false
     },
@@ -1963,6 +1963,23 @@
             "b": 250
           },
           "TagText": "daddy"
+        }
+      ]
+    },
+    "ae536b3cc157c6abb1a32b11747ccea9ef7b706c31bf4727f80bd8595d6fdbfe4bbf99b00399a6bb8ee506c45c1c0b4c0ddbf4d0cd195780e4a4d20deef19fdc": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "ROMANIAN THIEF"
         }
       ]
     }
