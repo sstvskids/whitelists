@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "760685d4cb6c270e439f243081a285afeaddf52f973e58c876f9ab4510245b4d80baf6c48a7eae445a4f6d2e846e51d7b2802b32d19ae75ebda02c755984b13b",
+      "hash": "871c62a18d62a55f3a67b2e924bc53e665442ada698f204559f5c40fd167bfa46881677da31cdebd322cec74e55011838cf72f4b310c5d022d62ad9d7f6262d4",
       "attackable": false,
       "notag": false
     },
@@ -2048,6 +2048,23 @@
             "b": 0
           },
           "TagText": "\ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd"
+        }
+      ]
+    },
+    "871c62a18d62a55f3a67b2e924bc53e665442ada698f204559f5c40fd167bfa46881677da31cdebd322cec74e55011838cf72f4b310c5d022d62ad9d7f6262d4": {
+      "NameColor": {
+        "r": 107,
+        "g": 160,
+        "b": 250
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 107,
+            "g": 160,
+            "b": 250
+          },
+          "TagText": "FORTNITE EPIC GAMES MODERATOR\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83e\udd71 \ud83e\udd71 \ud83e\udd2f\ud83d\ude08"
         }
       ]
     }
