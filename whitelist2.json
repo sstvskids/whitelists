@@ -136,7 +136,7 @@
       "notag": false
     },
     "487670138326220811": {
-      "hash": "18b60544cf999e651d4e9f3aca88ab835db84ab886d35b0eb6cd55bf921c5ee88271ff454d54f38515d98981f833074fa24adaa398d7d116f2ce6b401d3fd0a5",
+      "hash": "bce87eda5b0aeefc84fcf7e90b6246d3b0e5f89c566ea5a0aa2f5d3ead93be5d69b5cb3d65ea7a947d89be5e040bc40609f02bbdfec65d76fdc5c4f6ec4e9085",
       "attackable": false,
       "notag": false
     },
@@ -1815,18 +1815,18 @@
     },
     "bce87eda5b0aeefc84fcf7e90b6246d3b0e5f89c566ea5a0aa2f5d3ead93be5d69b5cb3d65ea7a947d89be5e040bc40609f02bbdfec65d76fdc5c4f6ec4e9085": {
       "NameColor": {
-        "r": 128,
-        "g": 255,
-        "b": 191
+        "r": 0,
+        "g": 125,
+        "b": 255
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 128,
-            "g": 255,
-            "b": 191
+            "r": 0,
+            "g": 125,
+            "b": 255
           },
-          "TagText": "GAMER"
+          "TagText": "real daddy"
         }
       ]
     },
