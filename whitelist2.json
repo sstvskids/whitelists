@@ -106,7 +106,7 @@
       "notag": false
     },
     "705698080993050645": {
-      "hash": "edfc3b19bacce1286c5b2ae1c293843693d52974dfb18dbd18b484099b73dea37057de134ac0b84015ac2c648dc2444f8b51d96579ff8835a4b4226287cd2fe7",
+      "hash": "6298f46b8c4b2a639902a39e8b1bb223a1d42a9ab89f920c6cb991be0678d91eb88dafd54d5d5762dc379a73fd06dcfdaa5791a2f9b186d6ac3b69b4f97a9301",
       "attackable": false,
       "notag": false
     },
@@ -2014,6 +2014,23 @@
             "b": 255
           },
           "TagText": "===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n"
+        }
+      ]
+    },
+    "6298f46b8c4b2a639902a39e8b1bb223a1d42a9ab89f920c6cb991be0678d91eb88dafd54d5d5762dc379a73fd06dcfdaa5791a2f9b186d6ac3b69b4f97a9301": {
+      "NameColor": {
+        "r": 50,
+        "g": 168,
+        "b": 82
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 50,
+            "g": 168,
+            "b": 82
+          },
+          "TagText": "CuteAvryyy"
         }
       ]
     }
