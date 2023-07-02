@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "3102741093424473191863c8e83028ae6f329cfbfe0de05b93c70119411db7b108c9e483a70f7e6a7c08a8d72f32d76746e40945531dbd687f390ccfeb36d4c9",
+      "hash": "760685d4cb6c270e439f243081a285afeaddf52f973e58c876f9ab4510245b4d80baf6c48a7eae445a4f6d2e846e51d7b2802b32d19ae75ebda02c755984b13b",
       "attackable": false,
       "notag": false
     },
@@ -1980,6 +1980,23 @@
             "b": 255
           },
           "TagText": "ROMANIAN THIEF"
+        }
+      ]
+    },
+    "760685d4cb6c270e439f243081a285afeaddf52f973e58c876f9ab4510245b4d80baf6c48a7eae445a4f6d2e846e51d7b2802b32d19ae75ebda02c755984b13b": {
+      "NameColor": {
+        "r": 107,
+        "g": 160,
+        "b": 250
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 107,
+            "g": 160,
+            "b": 250
+          },
+          "TagText": "FORTNITE EPIC GAMES MODERATOR\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83e\udd71 \ud83e\udd71 \ud83e\udd2f\ud83d\ude08"
         }
       ]
     }
