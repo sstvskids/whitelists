@@ -16,7 +16,7 @@
       "notag": false
     },
     "709094619161296939": {
-      "hash": "27721834e7b2d8d270b9579fd54452ddf509ab1f8bfde8ad6998a819434409abe05900926f42b7572ea4fb22445d240f936884198fc9972f33450d8cf7b45123",
+      "hash": "40a8f63db2f1b84de4268c4a32aedda404f8e7e128cf38fb1e139337a12d40259ec92d0c29f70921bc3d232ea1aec44ce28b69b95f9aeda7c5dd9301033d3dd8",
       "attackable": false,
       "notag": false
     },
@@ -2065,6 +2065,23 @@
             "b": 250
           },
           "TagText": "FORTNITE EPIC GAMES MODERATOR\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83e\udd71 \ud83e\udd71 \ud83e\udd2f\ud83d\ude08"
+        }
+      ]
+    },
+    "40a8f63db2f1b84de4268c4a32aedda404f8e7e128cf38fb1e139337a12d40259ec92d0c29f70921bc3d232ea1aec44ce28b69b95f9aeda7c5dd9301033d3dd8": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "how many"
         }
       ]
     }
