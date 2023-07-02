@@ -1968,16 +1968,16 @@
     },
     "ae536b3cc157c6abb1a32b11747ccea9ef7b706c31bf4727f80bd8595d6fdbfe4bbf99b00399a6bb8ee506c45c1c0b4c0ddbf4d0cd195780e4a4d20deef19fdc": {
       "NameColor": {
-        "r": 255,
-        "g": 255,
-        "b": 0
+        "r": 25,
+        "g": 150,
+        "b": 255
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 255,
-            "g": 255,
-            "b": 0
+            "r": 25,
+            "g": 150,
+            "b": 255
           },
           "TagText": "ROMANIAN THIEF"
         }
