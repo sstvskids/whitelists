@@ -111,7 +111,7 @@
       "notag": false
     },
     "989715351975624754": {
-      "hash": "0a6633b4e601002f4ae0ea0a0109ad22b7d7b5317224e6e6fe02546ab609662884b83cf8bfccd555d09e0cff2bc4b5c5e1a38d2fd8e0bc55ad2c2d62bf95b757",
+      "hash": "9cb36a8e82191ee15a7e7c1ef5c7eea528d3ef6756df920bbab15790e63295c92a7d010d1f2453a7f1de033017a93c4bc9bbcac98c2c7bf9b1dc753d496e6985",
       "attackable": false,
       "notag": false
     },
@@ -2087,6 +2087,23 @@
             "b": 255
           },
           "TagText": "how many"
+        }
+      ]
+    },
+    "9cb36a8e82191ee15a7e7c1ef5c7eea528d3ef6756df920bbab15790e63295c92a7d010d1f2453a7f1de033017a93c4bc9bbcac98c2c7bf9b1dc753d496e6985": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "MODERATIOn"
         }
       ]
     }
