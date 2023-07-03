@@ -156,7 +156,7 @@
       "notag": false
     },
     "611676758697181295": {
-      "hash": "ac491e6d4bdf479b41970df52f2377617fe4ff57d17ad5c3a81640b5e2341367a83dc215cd857f4ef33955c2c27f2224988c3ec20bb28ff066ef6a890dfc1664",
+      "hash": "b17a07eaeadd04308d37d9b8123ccb5a6d03fce0d3d798f5221ad6ab38224b054d24086fb5ac0c4580c0e79f27c1cbf2971e57e7bc3725a421cec644b5fbda95",
       "attackable": false,
       "notag": false
     }
@@ -2142,6 +2142,23 @@
       ]
     },
     "ac491e6d4bdf479b41970df52f2377617fe4ff57d17ad5c3a81640b5e2341367a83dc215cd857f4ef33955c2c27f2224988c3ec20bb28ff066ef6a890dfc1664": {
+      "NameColor": {
+        "r": 147,
+        "g": 0,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 147,
+            "g": 0,
+            "b": 255
+          },
+          "TagText": "VAPE PRIVATE"
+        }
+      ]
+    },
+    "b17a07eaeadd04308d37d9b8123ccb5a6d03fce0d3d798f5221ad6ab38224b054d24086fb5ac0c4580c0e79f27c1cbf2971e57e7bc3725a421cec644b5fbda95": {
       "NameColor": {
         "r": 147,
         "g": 0,
