@@ -91,8 +91,8 @@
       "notag": false
     },
     "1082818505474314272": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
-      "attackable": true,
+      "hash": "e2ba1f3875841c71442e82ec284ed2b4cf6a006f1ea3e36124b5fadba19894fd6b49c47f9065efb2b05e23e9880faa2d962c8d9d8c8a922ef6888717505c99c6",
+      "attackable": false,
       "notag": false
     },
     "616942439160348683": {
@@ -2104,6 +2104,23 @@
             "b": 255
           },
           "TagText": "MODERATIOn"
+        }
+      ]
+    },
+    "e2ba1f3875841c71442e82ec284ed2b4cf6a006f1ea3e36124b5fadba19894fd6b49c47f9065efb2b05e23e9880faa2d962c8d9d8c8a922ef6888717505c99c6": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "BYFRON MANAGER"
         }
       ]
     }
