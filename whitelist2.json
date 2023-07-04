@@ -131,7 +131,7 @@
       "notag": true
     },
     "1000432733467721799": {
-      "hash": "0b8beb06e29620ab628b43bdf3233dd9b148c37b6e4993b254662aad09ec4a84a76025b3b5187d9c261c12f3545efe5f4a2304f3e1736216148d9842036c76f3",
+      "hash": "b4aad446b2c5a28a6edb1d3d7344fac05fa427f43671c98bae980913f5bda028744ec2ea004b69f0ba58219c5d9cc65cc8aaa0abb7604ea085d68989e756a730",
       "attackable": false,
       "notag": false
     },
@@ -2223,6 +2223,23 @@
             "b": 0
           },
           "TagText": "JESUS"
+        }
+      ]
+    },
+    "b4aad446b2c5a28a6edb1d3d7344fac05fa427f43671c98bae980913f5bda028744ec2ea004b69f0ba58219c5d9cc65cc8aaa0abb7604ea085d68989e756a730": {
+      "NameColor": {
+        "r": 160,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 160,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "CATV5 OWNER"
         }
       ]
     }
