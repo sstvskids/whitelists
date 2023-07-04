@@ -156,7 +156,7 @@
       "notag": false
     },
     "611676758697181295": {
-      "hash": "e089a769a41cd2ccfd518f52d330ebcbd6697c01ba0654f8be6b9ab666fd7e92b618853baacf0abecb0c25f5af3bb6948e58668217ce7b75a65fb5443652ad7e",
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "attackable": false,
       "notag": false
     }
@@ -426,18 +426,18 @@
     },
     "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c": {
       "NameColor": {
-        "r": 255,
+        "r": 147,
         "g": 0,
-        "b": 0
+        "b": 255
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 255,
+            "r": 147,
             "g": 0,
-            "b": 0
+            "b": 255
           },
-          "TagText": "realman"
+          "TagText": "VAPE PRIVATE"
         }
       ]
     },
