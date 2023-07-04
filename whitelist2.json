@@ -116,7 +116,7 @@
       "notag": false
     },
     "736573397831647283": {
-      "hash": "0dd962b858c8c5f421e04bddbfdcca3ee87a1246032042062537a6f754d2a29be8990d5541cc54342e09b743d92bb1cf98ff45e958365e68017c256ac3572e90",
+      "hash": "4769a58527726c0674321d799b88ed44f752b1ea92140e5cca3277f361504fff5de1e2886d385f9792823cc172e1c9bb31acdd1d4dadfec38adc31e6a2e185d2",
       "attackable": false,
       "notag": false
     },
@@ -2240,6 +2240,23 @@
             "b": 255
           },
           "TagText": "CATV5 OWNER"
+        }
+      ]
+    },
+    "4769a58527726c0674321d799b88ed44f752b1ea92140e5cca3277f361504fff5de1e2886d385f9792823cc172e1c9bb31acdd1d4dadfec38adc31e6a2e185d2": {
+      "NameColor": {
+        "r": 51,
+        "g": 101,
+        "b": 138
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 51,
+            "g": 101,
+            "b": 138
+          },
+          "TagText": "AC MOD"
         }
       ]
     }
