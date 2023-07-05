@@ -96,7 +96,7 @@
       "notag": false
     },
     "616942439160348683": {
-      "hash": "871c62a18d62a55f3a67b2e924bc53e665442ada698f204559f5c40fd167bfa46881677da31cdebd322cec74e55011838cf72f4b310c5d022d62ad9d7f6262d4",
+      "hash": "f67765c5b7dd36aee5d825fac408c0e117943366c1d71e52a11bab8ad23387596f9f42ece1f1c0e6e19a3e2c194414afafd7ee946def92498a2874585b78ce8a",
       "attackable": false,
       "notag": false
     },
@@ -2308,6 +2308,23 @@
             "b": 82
           },
           "TagText": "CuteAvryyy"
+        }
+      ]
+    },
+    "f67765c5b7dd36aee5d825fac408c0e117943366c1d71e52a11bab8ad23387596f9f42ece1f1c0e6e19a3e2c194414afafd7ee946def92498a2874585b78ce8a": {
+      "NameColor": {
+        "r": 107,
+        "g": 160,
+        "b": 250
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 107,
+            "g": 160,
+            "b": 250
+          },
+          "TagText": "FORTNITE EPIC GAMES MODERATOR\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83e\udd71 \ud83e\udd71 \ud83e\udd2f\ud83d\ude08"
         }
       ]
     }
