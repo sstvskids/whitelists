@@ -21,7 +21,7 @@
       "notag": false
     },
     "1077461832056442901": {
-      "hash": "e3cb94a49a395ae3c188cabf7521ab38e492eee3d67d97d07f1c777dc158303e2832fa81d9ab6d48c2b6fa09f3e409412eaf1310f6914a2eb7cba0e285ae3c9e",
+      "hash": "c8d67fb8455b291e8fa9eca96cd4384fc8cd47fd34114cd740e0a04b698062204e05ac3a84712b844558f04d32b5cbeea1dcdc11f740dcce31c1db75598b71e3",
       "attackable": false,
       "notag": false
     },
@@ -2330,6 +2330,23 @@
             "b": 250
           },
           "TagText": "FORTNITE EPIC GAMES MODERATOR\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83d\ude08 \ud83e\udd76 \ud83d\ude0e \ud83d\ude0e \ud83d\udde3\ufe0f \ud83d\ude08 \ud83e\udd11\ud83e\udd71 \ud83e\udd71 \ud83e\udd2f\ud83d\ude08"
+        }
+      ]
+    },
+    "c8d67fb8455b291e8fa9eca96cd4384fc8cd47fd34114cd740e0a04b698062204e05ac3a84712b844558f04d32b5cbeea1dcdc11f740dcce31c1db75598b71e3": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "PISTONWARE OWNER"
         }
       ]
     }
