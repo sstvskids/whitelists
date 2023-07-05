@@ -97,7 +97,7 @@
     },
     "616942439160348683": {
       "hash": "f67765c5b7dd36aee5d825fac408c0e117943366c1d71e52a11bab8ad23387596f9f42ece1f1c0e6e19a3e2c194414afafd7ee946def92498a2874585b78ce8a",
-      "attackable": true,
+      "attackable": false,
       "notag": false
     },
     "771130296228904960": {
