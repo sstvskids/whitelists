@@ -5,16 +5,14 @@
       "attackable": false,
       "level": 2,
       "tags": [
-        [
-          {
-            "text": "fybby",
-            "color": [
-              255,
-              0,
-              0
-            ]
-          }
-        ]
+        {
+          "text": "funny",
+          "color": [
+            0,
+            255,
+            0
+          ]
+        }
       ]
     },
     "1082818505474314272": {
