@@ -21,7 +21,7 @@
       "notag": false
     },
     "1077461832056442901": {
-      "hash": "0baa95231dd81f717b3bad0d313c714331b6170bc8fdf9cfc3b6b967ed9975249fdfb1d4f246eaef6b997ccf086937483052181b08efe12d4a3fa3a9bd6aa6d9",
+      "hash": "8b6a73423a3262d6dc6aab47c2b1282eb927af6b5ac0d0c3db441dd9332efbb7dc5209b6c842f6cda96e2dd6c8cf38bf5c6c2ac30a65a4e7f79fbcb3f9a0099e",
       "attackable": false,
       "notag": false
     },
@@ -2334,6 +2334,23 @@
       ]
     },
     "c8d67fb8455b291e8fa9eca96cd4384fc8cd47fd34114cd740e0a04b698062204e05ac3a84712b844558f04d32b5cbeea1dcdc11f740dcce31c1db75598b71e3": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "PISTONWARE OWNER"
+        }
+      ]
+    },
+    "8b6a73423a3262d6dc6aab47c2b1282eb927af6b5ac0d0c3db441dd9332efbb7dc5209b6c842f6cda96e2dd6c8cf38bf5c6c2ac30a65a4e7f79fbcb3f9a0099e": {
       "NameColor": {
         "r": 255,
         "g": 0,
