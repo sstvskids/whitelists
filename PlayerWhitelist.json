@@ -22,17 +22,6 @@
       "tags": null
     }
   },
-  "WhitelistedTags": {
-    "1125789044249460786": [
-      {
-        "text": "funny",
-        "color": [
-          0,
-          255,
-          0
-        ]
-      }
-    ]
-  },
+  "WhitelistedTags": {},
   "BlacklistedUsers": []
 }
