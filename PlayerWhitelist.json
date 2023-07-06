@@ -22,6 +22,17 @@
       "tags": null
     }
   },
-  "WhitelistedTags": {},
+  "WhitelistedTags": {
+    "771130296228904960": [
+      {
+        "text": "AC MOD",
+        "color": [
+          148,
+          0,
+          211
+        ]
+      }
+    ]
+  },
   "BlacklistedUsers": []
 }
