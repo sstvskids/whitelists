@@ -20,6 +20,21 @@
       "attackable": true,
       "level": 1,
       "tags": null
+    },
+    "771130296228904960": {
+      "hash": "a06913b4e09d077b0e0f6e91c7689410efc7c17df2b91e3bbc50cac15c37767c2592f371a327fca286f71c95c4d6efa5aff7ea6d20a32e88fea0238c7b986be0",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "AC MOD",
+          "color": [
+            148,
+            0,
+            211
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
