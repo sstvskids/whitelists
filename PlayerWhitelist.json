@@ -3,15 +3,17 @@
     "1125789044249460786": {
       "hash": "75a9421eed77688ea578ac09ce2d353a255faf4d5064423f4ddf36cfdb82771ed34e5ceff6f7e994717d731d798b757fab2ff50a137d0814c5d4b86dd522d210",
       "attackable": false,
-      "tag": {
-        "text": "VAPE PRIVATE",
-        "color": [
-          178,
-          0,
-          255
-        ]
-      },
-      "level": 1
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {},
