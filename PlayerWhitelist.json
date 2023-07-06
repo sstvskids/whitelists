@@ -1,24 +1,31 @@
 {
   "WhitelistedUsers": {
-    "1125789044249460786" : {
+    "1125789044249460786": {
       "hash": "75a9421eed77688ea578ac09ce2d353a255faf4d5064423f4ddf36cfdb82771ed34e5ceff6f7e994717d731d798b757fab2ff50a137d0814c5d4b86dd522d210",
-      "level": 2,
       "attackable": false,
-      "tags": [
+      "tag": [
         {
           "text": "VAPE OWNER",
-          "color": [255, 0, 0]
+          "color": [
+            255,
+            0,
+            0
+          ]
         }
       ]
     }
   },
   "WhitelistedTags": {
-    "1125789044249460786" : [
+    "1125789044249460786": [
       {
         "text": "VAPE OWNER",
-        "color": [255, 0, 0]
+        "color": [
+          255,
+          0,
+          0
+        ]
       }
     ]
   },
-  "BlacklistedUsers" : []
+  "BlacklistedUsers": []
 }
