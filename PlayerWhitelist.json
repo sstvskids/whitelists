@@ -16,6 +16,12 @@
           }
         ]
       ]
+    },
+    "1082818505474314272": {
+      "hash": "02d48fefa24917d3f062fdb91a17e715dbecf1eedf5fcfc199fbf9dcc749d83120773addb8132be1bb6ca26e05afd0a9e0b628d3eb97d3e9ed3e7b9ca25d08aa",
+      "attackable": true,
+      "level": 1,
+      "tags": null
     }
   },
   "WhitelistedTags": {
