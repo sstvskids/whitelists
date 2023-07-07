@@ -50,6 +50,21 @@
           ]
         }
       ]
+    },
+    "1077461832056442901": {
+      "hash": "720e564a5ef6a58d6e39fec77b17ad9a61490a7305200b6aa551eeb243648de1607b2e2cbc32825dea0bec6acfbe45c8f3f9bb75db16bd48b8b3c2e8303f677f",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
