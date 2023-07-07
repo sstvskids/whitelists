@@ -119,6 +119,21 @@
           ]
         }
       ]
+    },
+    "487670138326220811": {
+      "hash": "ae536b3cc157c6abb1a32b11747ccea9ef7b706c31bf4727f80bd8595d6fdbfe4bbf99b00399a6bb8ee506c45c1c0b4c0ddbf4d0cd195780e4a4d20deef19fdc",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "GLORIOUS ROMANIA",
+          "color": [
+            25,
+            255,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
