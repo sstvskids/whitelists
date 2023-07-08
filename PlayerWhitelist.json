@@ -209,6 +209,21 @@
           ]
         }
       ]
+    },
+    "919665092025528441": {
+      "hash": "f287b7188489b5cd2cd154674363da06be7a82916c6ee12b6aa7cb8926ae50128c2ce9b86c745c1ba46376448c6c003fc194dac7a538df1f5dc2ffb995328d75",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "4773484957",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
