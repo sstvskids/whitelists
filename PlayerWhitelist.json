@@ -239,6 +239,12 @@
           ]
         }
       ]
+    },
+    "378746510596243458": {
+      "hash": "27f6ff9b9796b6011f6a361f1d023ce8f4887140975f810f74edae65be722123e1054a93974b4f6bdeb105774139e1f31654c043acb0d79948dcc4052f7a3311",
+      "attackable": true,
+      "level": 1,
+      "tags": null
     }
   },
   "WhitelistedTags": {
