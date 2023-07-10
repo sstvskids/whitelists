@@ -103,16 +103,16 @@
       ]
     },
     "487670138326220811": {
-      "hash": "c2786dbed0f381ecf9f5518a9262b87d701ea2d4cc256ccdb73d3725d81d348f00c9c8696dd288eb30b041ba8a318049ca157999358f2bc1c55b1bf909022093",
+      "hash": "4a2b324662831e37fa60bb1026bd338d0c537f55828fc02cd9daa7633005f03c1eca0d805714af015c6649633bc90cdbfae4176836035fdd0ea92ed7f47600e4",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "ROMANIAN",
+          "text": "ROMANIAN ROBBER",
           "color": [
-            40,
+            12,
             255,
-            120
+            175
           ]
         }
       ]
