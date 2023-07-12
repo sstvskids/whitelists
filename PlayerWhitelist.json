@@ -274,8 +274,8 @@
       ]
     },
     "844740591275212811": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
-      "attackable": true,
+      "hash": "bf36f5518daa51421157bdabec870e1c28e44f409abbda0d3075ee8547df3f2244027affddcc22d10ac07f7f96c1a4484a72bc2b70cceb0a670295e1199bfcbf",
+      "attackable": false,
       "level": 1,
       "tags": [
         {
