@@ -7,15 +7,15 @@
       "tags": null
     },
     "1082818505474314272": {
-      "hash": "0bf7ea2a7426219fa132df4ee442f5774bd75035a92699989b481f582dc64eeacd628fd2398768563f62cd0436f687e2e013e9acc275e7af4a3b818c09975759",
+      "hash": "d7ff6f9ea2ddf5c00909e70174653862704499f39cc30fc8e8e257a9e46eaa0f51c93fa6e23ab85a80f52a7fce9c27da64e4d164cff0db57a079e5b8f40ca258",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "Whitelist Bot",
+          "text": "VIP++",
           "color": [
             255,
-            165,
+            0,
             0
           ]
         }
