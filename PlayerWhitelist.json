@@ -208,16 +208,16 @@
       ]
     },
     "705698080993050645": {
-      "hash": "5e6930f9b0debaf9999455f468764407c5e16442a46ad769b1f2b4bbe12c00fbb69aaf71842bc061ac3b809579d5e652d1e305fb92ad6c2a86a38f306670902d",
+      "hash": "b51d0d0745ee67814bea2ebceae2a2f8be2b76595ae5d31db45e0e17d288a5ff4c4581db19d564a952fbbf93e85fe40d0f975e1d109da7b6588c83e15f37d92a",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "INDIAN TECH SCAMMER",
+          "text": "KASPERSKY SECURITY RESEARCHER",
           "color": [
-            42,
-            232,
-            131
+            255,
+            176,
+            217
           ]
         }
       ]
