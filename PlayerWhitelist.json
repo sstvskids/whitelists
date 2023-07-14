@@ -112,19 +112,10 @@
       ]
     },
     "487670138326220811": {
-      "hash": "70b541ed5cef46e1c1f942b76bd74fb2b5fe8bd92cf14aacade130386ed252ee19bd1d2615f22495b506a962e99c247a6e5d01d12776379f4d5775c05a58cb89",
+      "hash": "66c0680058a70af140e9d893e61454c3287746353fa1ad9998f845e3597d83cfe7e53a4773326bb5579a4804a28f1ecd8632bf0fdc0801bb9b16d439cd451d68",
       "attackable": false,
       "level": 1,
-      "tags": [
-        {
-          "text": "I LOVE ISREAL",
-          "color": [
-            0,
-            0,
-            175
-          ]
-        }
-      ]
+      "tags": null
     },
     "611676758697181295": {
       "hash": "2e0b6fed47cf2a18a2c94175a990ca2da8b5fd49aaa485847251774a92ade2e7d57d645adf81e70ca028af366d3d46a6d192ba169439f505f86ca29bb3685d20",
