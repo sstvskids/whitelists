@@ -82,10 +82,19 @@
       ]
     },
     "989715351975624754": {
-      "hash": "5c9720c4c4cf9c004eafc9d5fcd173d5dc74300c36a2a7e5df89871af65c013e428a9672d40ad9011523b5680e0d5c36f7d00515a80e9e828812ea6f4339a4b2",
+      "hash": "c2a1ae277270b82e5700ba3a7a96f64ccbd947a7aae93906643008e9495550992f9f4e13443d938e8faf22b95ed07f01036424fc26b925f51666ce954ce22c59",
       "attackable": false,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "PINEAPPLE IS MY BROTHER NAME",
+          "color": [
+            255,
+            255,
+            101
+          ]
+        }
+      ]
     },
     "384718982625886208": {
       "hash": "f6de5c5b7dc130a424d295c50ffd7b7f0a68510c27ef2f5bb4e9e1aac220d43cc114691dd04be622672dae5358b2d652431f4e60b53a77b7c8cc28ebb2d74f4b",
