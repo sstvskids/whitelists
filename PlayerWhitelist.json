@@ -259,16 +259,16 @@
       ]
     },
     "1000432733467721799": {
-      "hash": "b4aad446b2c5a28a6edb1d3d7344fac05fa427f43671c98bae980913f5bda028744ec2ea004b69f0ba58219c5d9cc65cc8aaa0abb7604ea085d68989e756a730",
+      "hash": "8f117f24c8962b878f3e8e37430c5a70def18e71c6810cc665660b882a9674b9a15d6e64afdc338b54e2c75346d5e1ebeba5943b1d023e1612765df97f19d2d3",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "AC MOD",
+          "text": "PROUD AMERICAN",
           "color": [
-            178,
-            0,
-            255
+            176,
+            50,
+            85
           ]
         }
       ]
