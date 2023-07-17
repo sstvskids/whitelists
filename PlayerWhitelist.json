@@ -12,11 +12,11 @@
       "level": 1,
       "tags": [
         {
-          "text": "whitelist",
+          "text": "DEV",
           "color": [
-            255,
+            128,
             0,
-            0
+            128
           ]
         }
       ]
