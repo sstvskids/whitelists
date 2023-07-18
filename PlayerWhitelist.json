@@ -125,15 +125,15 @@
     },
     "736573397831647283": {
       "hash": "47cd7bd630d857228da2f97ec31756b92139bb77f8707361721d2fabe39c6b403ff420503d5e3239331eed76cade56174027f969505d4bd3545d70fc857c7320",
-      "attackable": true,
+      "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "blank apgiajdaoefihaef",
+          "text": "Blank",
           "color": [
-            0,
-            0,
-            0
+            161,
+            127,
+            255
           ]
         }
       ]
