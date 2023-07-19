@@ -37,6 +37,17 @@
       ]
     }
   },
-  "WhitelistedTags": {},
+  "WhitelistedTags": {
+    "822903547540537384": [
+      {
+        "text": "VIP GAMING CHAIR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
   "BlacklistedUsers": []
 }
