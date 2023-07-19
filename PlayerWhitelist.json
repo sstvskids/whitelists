@@ -52,6 +52,17 @@
       ]
     }
   },
-  "WhitelistedTags": {},
+  "WhitelistedTags": {
+    "709094619161296939": [
+      {
+        "text": "id fuck a germ",
+        "color": [
+          255,
+          0,
+          0
+        ]
+      }
+    ]
+  },
   "BlacklistedUsers": []
 }
