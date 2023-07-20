@@ -26,6 +26,21 @@
       "attackable": false,
       "level": 1,
       "tags": null
+    },
+    "378746510596243458": {
+      "hash": "a276fb6b8b747a8cacec8e6e65fe30a1dc49b2b1eea6ea37ac127db60c9b7d5d818513fbf2ff1b8e47b56152787a1aa6e519d655cdc87ec22576d69341ecfa78",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
