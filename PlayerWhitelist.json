@@ -1,10 +1,19 @@
 {
   "WhitelistedUsers": {
     "1077461832056442901": {
-      "hash": "4cfb1a0b5b2319a4b429c62e6f3ea0158d6165138ec80a0134bd463b685688fb82d9a8576c989a39ddaf649416c18cc1e8002f972b4121d5277c88da86772be4",
+      "hash": "996e9e328969e9f1ef99c496db65ef751f5e723e4d393c6142196d3f09ef79efce88eee0cbe193b21e8f28d271ff0b3a3e5e59c40c272f6050e813ecf05d48aa",
       "attackable": false,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "919665092025528441": {
       "hash": "8ed136a1d2ab74fd971aba2a90a44d890685f0f1a608bed66180ed926862f71db9a4e9f6f2815eaba2691be6ebf424c7ae10c4c43064c93a29785461d4061b47",
