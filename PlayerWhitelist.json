@@ -56,6 +56,21 @@
           ]
         }
       ]
+    },
+    "1125789044249460786": {
+      "hash": "208575242289efc4e924f94ee8e4a70402f7dfe35d1cc6ac39c4d8e01c0ba1c8a680bb9f6274b100a23ed75040d06e3e9d23dce8c0a7fecc4aa4853b533db677",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
