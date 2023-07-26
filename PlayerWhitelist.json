@@ -28,19 +28,10 @@
       "tags": null
     },
     "378746510596243458": {
-      "hash": "a276fb6b8b747a8cacec8e6e65fe30a1dc49b2b1eea6ea37ac127db60c9b7d5d818513fbf2ff1b8e47b56152787a1aa6e519d655cdc87ec22576d69341ecfa78",
+      "hash": "62ea31da321c3ec89d994ef2d657c6b8d365871b463eaea1458eb64006976d5c0be080d0029ae5dac4964af73defaca66c617c590de0113845eeaaefabed7838",
       "attackable": false,
       "level": 1,
-      "tags": [
-        {
-          "text": "AC MOD",
-          "color": [
-            160,
-            34,
-            160
-          ]
-        }
-      ]
+      "tags": null
     },
     "709094619161296939": {
       "hash": "12cfec050357708263db868f52d4327c137fd60260a4c1d48170b884f6432cc00708f0a16b92b14c1b6054112fb8d4ad8398732c7d4e6cf38a569ba344f00010",
