@@ -95,6 +95,12 @@
           ]
         }
       ]
+    },
+    "961711371425300602": {
+      "hash": "9c5506cf98f284510831f14d35df48a2af0dba9d448809806c791b89d98b35af1f27167a77cc92eeb0aed12daca8373a3823bb33dbba1066cb27a1d74534490d",
+      "attackable": false,
+      "level": 1,
+      "tags": null
     }
   },
   "WhitelistedTags": {
