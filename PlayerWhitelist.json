@@ -101,6 +101,21 @@
       "attackable": false,
       "level": 1,
       "tags": null
+    },
+    "1000432733467721799": {
+      "hash": "9bc294a2ac3d988c66efd57769af7c2b4e309b5bccb13c65ab81ba6442afa5f5c56463f22d76cdbf59e4bdb0f4dc24956e7fe8408014de22be90a557ad603815",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "PROUD AMERICAN",
+          "color": [
+            117,
+            28,
+            28
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
