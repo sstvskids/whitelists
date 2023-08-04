@@ -152,6 +152,21 @@
           ]
         }
       ]
+    },
+    "771130296228904960": {
+      "hash": "0e6e5d750d009ae7895c2add0e812954d2fe2f8bde3859121263b0eed4b89802a3cc2cb01154ec8361bca7a9d4b20d5ccb8f5fa27779947a54969040a707e7c8",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "I am Fis",
+          "color": [
+            30,
+            144,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
