@@ -99,11 +99,11 @@
       "level": 1,
       "tags": [
         {
-          "text": "PROUD AMERICAN",
+          "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
           "color": [
-            90,
-            0,
-            0
+            57,
+            56,
+            110
           ]
         }
       ]
