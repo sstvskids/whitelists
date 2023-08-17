@@ -136,7 +136,16 @@
       "hash": "102bf76e7119bc9df3a46116e486986730e73cbd329f40b29d073948e8c75c91f8d8696c89915c11b430bbc77a4ae14933f958ba28d18ca055e657e939d34871",
       "attackable": false,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "TheMagicPisscan",
+          "color": [
+            255,
+            255,
+            77
+          ]
+        }
+      ]
     },
     "771130296228904960": {
       "hash": "0e6e5d750d009ae7895c2add0e812954d2fe2f8bde3859121263b0eed4b89802a3cc2cb01154ec8361bca7a9d4b20d5ccb8f5fa27779947a54969040a707e7c8",
