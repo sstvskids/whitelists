@@ -176,6 +176,21 @@
           ]
         }
       ]
+    },
+    "384718982625886208": {
+      "hash": "39c427ec8764a608a43634eac3f71b5afc203d3830cab65339217fd74803e77eece23a818ed567f354b61c1830d7bf3dce54f830943b7077b62cf62f362848f5",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
