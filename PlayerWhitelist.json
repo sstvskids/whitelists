@@ -52,19 +52,10 @@
       ]
     },
     "1125789044249460786": {
-      "hash": "531e6216db56b2b51d74ea88a1ade2f1ec31c3597b58f8772bdca86fc8439214843f1f74a8b47bfa9dd237bd839c10b1a87613a04e6fa68a02fc200f297ee6ce",
-      "attackable": false,
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "attackable": true,
       "level": 2,
-      "tags": [
-        {
-          "text": "VAPE OWNER",
-          "color": [
-            255,
-            50,
-            50
-          ]
-        }
-      ]
+      "tags": null
     },
     "900134277616926780": {
       "hash": "2e24c44b7f97ac617921decf6999733c28dd68514b1094e9d9dfa760256b86862b4c2a3e99bea98779b9844cc36d73112fb0fada5a55c98effcc815fa2ee4cb2",
