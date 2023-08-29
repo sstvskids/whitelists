@@ -242,7 +242,7 @@
     ],
     "759071932276146216": [
       {
-        "text": "electron_http_request",
+        "text": "celery_shell()",
         "color": [
           255,
           255,
