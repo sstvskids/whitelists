@@ -154,19 +154,10 @@
       ]
     },
     "1077461832056442901": {
-      "hash": "4117d1b688f2b93e7b12abb1d15736409df073a3c922a262f97cd77c095fd823e4f5c92d4d14e9f9d967e1b43f367d85784aefdbf598fa4498c84a18113cd75d",
+      "hash": "5853a1ced4aa3636947a725c251dd51b01cc53f8019f16f6931201f7efdd6c24ef44803f66c0e7546364501e98edd7b78c839144ec55d68b357b59c621e2095f",
       "attackable": false,
       "level": 1,
-      "tags": [
-        {
-          "text": "Pisston",
-          "color": [
-            255,
-            255,
-            0
-          ]
-        }
-      ]
+      "tags": null
     },
     "384718982625886208": {
       "hash": "39c427ec8764a608a43634eac3f71b5afc203d3830cab65339217fd74803e77eece23a818ed567f354b61c1830d7bf3dce54f830943b7077b62cf62f362848f5",
