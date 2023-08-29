@@ -197,21 +197,6 @@
           ]
         }
       ]
-    },
-    "272412823148298240": {
-      "hash": "4117d1b688f2b93e7b12abb1d15736409df073a3c922a262f97cd77c095fd823e4f5c92d4d14e9f9d967e1b43f367d85784aefdbf598fa4498c84a18113cd75d",
-      "attackable": true,
-      "level": 1,
-      "tags": [
-        {
-          "text": "VAPE PRIVATE",
-          "color": [
-            178,
-            0,
-            255
-          ]
-        }
-      ]
     }
   },
   "WhitelistedTags": {
