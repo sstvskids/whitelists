@@ -124,12 +124,12 @@
       ]
     },
     "759071932276146216": {
-      "hash": "49c50ae303b059a8fc19a0eea0f5b1484d22199b3ea752147f7ba3c186f7f03babdd155afc2c10e7fc18bd136effcd7a71dd7e8402ab699cf9a66ac9b0d676f8",
+      "hash": "872a31465389f21d8f0594b426f60d1d402b1fd02b70849f5818a7f71f73d9a30760048d79ade61c4b3dceda504fbe8a08f9c4bfd695ac871f6e90276d3d17ff",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "illegal immigrant",
+          "text": "electron_http_request",
           "color": [
             255,
             255,
