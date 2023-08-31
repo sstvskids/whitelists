@@ -124,12 +124,12 @@
       ]
     },
     "759071932276146216": {
-      "hash": "872a31465389f21d8f0594b426f60d1d402b1fd02b70849f5818a7f71f73d9a30760048d79ade61c4b3dceda504fbe8a08f9c4bfd695ac871f6e90276d3d17ff",
+      "hash": "70b6f8c2bf988db878128ed60c4a94964a81c437952eaf47f8aa7f2f308c8ef8e818a57cdbfd136af51156977c685fb90af94e1197b30eabed949c5cc3dfc0b6",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "electron_http_request",
+          "text": "celery_shell()",
           "color": [
             255,
             255,
