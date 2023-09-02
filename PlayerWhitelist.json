@@ -199,10 +199,19 @@
       ]
     },
     "1144358443394813993": {
-      "hash": "a7313c2a8ed2a5490c5ade4111c8de9b0a438a4e409f524b6050a41da6a41a449d144c348eee30c40ba8a6c2f3e6daeb0f3755d0804948c83200df41ae04e65e",
+      "hash": "fd76bfc05e1cbeb0cfa09e1c5eb0d9252acb30e4638f70973b918160675380a2cb9a44c95c0beb5ae40e6c6b9ee9d7efd99c585059557fee7e11a5a955dd9037",
       "attackable": false,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "1145068116007718952": {
       "hash": "689568729826cd1e091d296dbd202eabc744d4648708fb1bc93fd8de3f7633e1db1d400fccb81889bf3d8d04ffb4879e03b209427b284dc4280f901c242465f3",
