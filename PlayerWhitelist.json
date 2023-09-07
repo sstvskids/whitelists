@@ -154,19 +154,10 @@
       ]
     },
     "1077461832056442901": {
-      "hash": "890d2cda78517e4e7dbfb62bc3fb27cf2040bea33238c1cf45265c5e2eea3727919879df1966e7407ccf3534de7d39042b183f912fc1da1ba1f5de54ec8960f2",
+      "hash": "5853a1ced4aa3636947a725c251dd51b01cc53f8019f16f6931201f7efdd6c24ef44803f66c0e7546364501e98edd7b78c839144ec55d68b357b59c621e2095f",
       "attackable": false,
       "level": 1,
-      "tags": [
-        {
-          "text": "PISTONWARE OWNER",
-          "color": [
-            255,
-            165,
-            0
-          ]
-        }
-      ]
+      "tags": null
     },
     "384718982625886208": {
       "hash": "1596c3e5c9bd2cc1ef62d2456b02159934f2048abcd5c197107bc23c022653ddc6947588d59a0e7eb202d9de990854c9fad52f81341e77d35ec846219a369029",
