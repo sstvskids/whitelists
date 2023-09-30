@@ -37,10 +37,19 @@
       ]
     },
     "709094619161296939": {
-      "hash": "bdce50cfecaba5b8c5d7f09371d98dd316af87d588c05650779ed6226c5bf3e164b870836e690f40db4021ddd7dfb76bd6017bec12b6e1df7e89f5a292abb828",
+      "hash": "3af3d991abe9f9c784f9438947adb040029987a9f49f4e040a631bd60d307644efe190465aa8a21c70118496b3511d0723bc38dd4957718aeff1ca2664f15b23",
       "attackable": false,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "baller",
+          "color": [
+            0,
+            255,
+            0
+          ]
+        }
+      ]
     },
     "1125789044249460786": {
       "hash": "7abcf9d351c9bd34fe3ea7467e25e8bb6836da0e81a9ac3a8304c6fc407df266a8a60dd62c0b5bb36007c6af01d680bba09aa2a0d4d8da3c3017d43d5eccce15",
