@@ -177,10 +177,10 @@
       "level": 1,
       "tags": [
         {
-          "text": "PISTONWARE OWNER",
+          "text": "give crate dupe",
           "color": [
             255,
-            165,
+            0,
             0
           ]
         }
