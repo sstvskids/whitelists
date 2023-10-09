@@ -130,16 +130,7 @@
       "hash": "0a6633b4e601002f4ae0ea0a0109ad22b7d7b5317224e6e6fe02546ab609662884b83cf8bfccd555d09e0cff2bc4b5c5e1a38d2fd8e0bc55ad2c2d62bf95b757",
       "attackable": false,
       "level": 1,
-      "tags": [
-        {
-          "text": "PONG IS COOL HELLO STREAM AND THIS IS SCRXPTEDWARE ALREADY",
-          "color": [
-            255,
-            160,
-            122
-          ]
-        }
-      ]
+      "tags": null
     },
     "759071932276146216": {
       "hash": "21b289826b7231aacf0b7ac7e895435851cba50f08f34eaac630438979994c1e5101a40f755eef9c37e6add1776d2b10bd88aa55a2cd5c6194e6a1885bf1f4f4",
