@@ -245,7 +245,7 @@
     },
     "1095667370049142856": {
       "hash": "867f6417ab841e48f458d12b96c2e8a6862a6255160c13ccd95e0f793bda9a4559720452dc935554a067479965f0b7c9d197408374aa48fbb0f6d37052f354b8",
-      "attackable": true,
+      "attackable": false,
       "level": 1,
       "tags": [
         {
