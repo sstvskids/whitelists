@@ -302,21 +302,6 @@
           ]
         }
       ]
-    },
-    "735432575140757605": {
-      "hash": "4eb6f775afeff58a1ae12934cf5d53a27b8ccf8e12a078503982e91201bda0447c835585a9c6bb20dfc1db4f2fe4e4bcd6e174e969852bb61447014a78016e15",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "engo",
-          "color": [
-            0,
-            157,
-            255
-          ]
-        }
-      ]
     }
   },
   "WhitelistedTags": {
