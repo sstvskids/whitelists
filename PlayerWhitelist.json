@@ -308,6 +308,21 @@
       "attackable": true,
       "level": 1,
       "tags": null
+    },
+    "475120268826902559": {
+      "hash": "085147494264d30dac70c274dbc8c544e24b0bab9b790fa95a198d7cccc8a1c99c9a25e274efdd0a8984e8260593dd3bdb64cea2fb0c4a26e6f623fe6b92ac94",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "252373327",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
