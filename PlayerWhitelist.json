@@ -502,5 +502,11 @@
       }
     ]
   },
-  "BlacklistedUsers": []
+  "BlacklistedUsers": [],
+  "Announcement": {
+    "text": "",
+    "expiretime": 0,
+    "targets": ""
+  },
+  "KillVape": false
 }
