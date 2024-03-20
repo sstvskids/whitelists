@@ -502,9 +502,7 @@
       }
     ]
   },
-  "BlacklistedUsers": {
-    "5672843619": "u r fat"
-  },
+  "BlacklistedUsers": {},
   "Announcement": {
     "text": "lol testing",
     "expiretime": 1710899088.6926973,
