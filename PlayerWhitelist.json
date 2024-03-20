@@ -502,7 +502,9 @@
       }
     ]
   },
-  "BlacklistedUsers": {},
+  "BlacklistedUsers": {
+    "1": "being roblox"
+  },
   "Announcement": {
     "text": "",
     "expiretime": 0,
