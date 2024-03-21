@@ -504,8 +504,8 @@
   },
   "BlacklistedUsers": {},
   "Announcement": {
-    "text": "1",
-    "expiretime": 1711000971.4974992,
+    "text": "testing again",
+    "expiretime": 1711003677.4348495,
     "targets": "all"
   },
   "KillVape": false
