@@ -304,10 +304,19 @@
       ]
     },
     "272412823148298240": {
-      "hash": "0e64afde03fb9685794fb531f868b1ba313bf0f4b8a4cb0d375b9dc4c30cbce46980cadf6e0ea6a6f4f0e133bf6dd1bbf9850015b046e8ee7fb83192ec1d0518",
-      "attackable": true,
+      "hash": "0cefacc794ec1f24092c93feedf5930a8106be0e3a69f72518f1ae4a2bc696fef961c7f54149622822b305999c84d698d51516692b5aab52b4dfc17d072828bf",
+      "attackable": false,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "Homo",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     },
     "475120268826902559": {
       "hash": "085147494264d30dac70c274dbc8c544e24b0bab9b790fa95a198d7cccc8a1c99c9a25e274efdd0a8984e8260593dd3bdb64cea2fb0c4a26e6f623fe6b92ac94",
