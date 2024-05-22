@@ -496,10 +496,7 @@
       }
     ]
   },
-  "BlacklistedUsers": {
-    "4386575635": "contact vaperoblox on discord",
-    "5480852096": "fa"
-  },
+  "BlacklistedUsers": {},
   "Announcement": {
     "text": "oh its just garbage, ok then",
     "expiretime": 1713556199.3487132,
