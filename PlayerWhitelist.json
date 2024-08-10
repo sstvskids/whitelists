@@ -1,6 +1,6 @@
 {
     "WhitelistedUsers": {
-            "744133099994087532": {
+        "744133099994087532": {
             "hash": "24afc2c382d54b3446868fb95a593c12901d997cad6de47b6b70d731d7c45cb69d698e4fe3451c36bf02183727c1e96190078f603ca31c9dd52f9c2539632961",
             "attackable": false,
             "level": 2,
@@ -11,6 +11,21 @@
                         255,
                         255,
                         255
+                    ]
+                }
+            ]
+        },
+        "786248813270532107": {
+            "hash": "6d78d1b4e01ea7149da79cfc90d84ebd6d972af0e97301f1662fa0eaded5007ee5fb21c97c949847a3e8d8140901667f46fbd650c8e4d4523f5f09ee8e60d3a4",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "Skidded Mommy",
+                    "color": [
+                        252,
+                        3,
+                        177
                     ]
                 }
             ]
