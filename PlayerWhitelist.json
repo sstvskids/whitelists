@@ -44,6 +44,21 @@
                     ]
                 }
             ]
+        },
+        "1249706429909176321": {
+            "hash": "437e1421e955b67dfdb0b16640692e1b7f08c710e0585aad94d76c60bb6941d5b5ea821f830e1b8807d7a73376b5f9e15232c56ae0134fbc3c2a15264b682041",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "DEV",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
