@@ -59,21 +59,6 @@
                     ]
                 }
             ]
-        },
-        "1": {
-            "hash": "2f448266fef37f1fd1f3dbabf258c81b1bb19850f759818560d19667b51bf09911f8deccf07232f0d057b3102d25c655e851369e54ae9440c0885a5d3452051c",
-            "attackable": false,
-            "level": 1,
-            "tags": [
-                {
-                    "text": "e",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
         }
     },
     "BlacklistedUsers": {},
