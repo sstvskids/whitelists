@@ -1,20 +1,5 @@
 {
     "WhitelistedUsers": {
-        "744133099994087532": {
-            "hash": "99772020f46acdbd9789b249c14a756f7247549b3e4af7c319d1b2c0f3388d63",
-            "attackable": false,
-            "level": "2",
-            "tags": [
-                {
-                    "text": "stav",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "786248813270532107": {
             "hash": "6d78d1b4e01ea7149da79cfc90d84ebd6d972af0e97301f1662fa0eaded5007ee5fb21c97c949847a3e8d8140901667f46fbd650c8e4d4523f5f09ee8e60d3a4",
             "attackable": false,
