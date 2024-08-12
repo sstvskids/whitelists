@@ -29,21 +29,6 @@
                     ]
                 }
             ]
-        },
-        "1249706429909176321": {
-            "hash": "11d3042c9eadd2ad7f60e60f4749caf0d59c4acc1ae15d5e34fffcd555814c4acad3789195ccf2483beb7d236d8507bf87aa027c681eb262559b9ab641b07930",
-            "attackable": false,
-            "level": 1,
-            "tags": [
-                {
-                    "text": "DEV",
-                    "color": [
-                        255,
-                        50,
-                        50
-                    ]
-                }
-            ]
         }
     },
     "BlacklistedUsers": {},
