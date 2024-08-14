@@ -29,6 +29,21 @@
                     ]
                 }
             ]
+        },
+        "744133099994087532": {
+            "hash": "957b840071b5526fcf47a4b9c46a65bc329a1c40503397d0489bb58c81b36a04",
+            "attackable": false,
+            "level": "2",
+            "tags": [
+                {
+                    "text": "stav",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
