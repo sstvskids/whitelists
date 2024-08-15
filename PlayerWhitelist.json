@@ -16,12 +16,12 @@
             ]
         },
         "1249706429909176321": {
-            "hash": "11d3042c9eadd2ad7f60e60f4749caf0d59c4acc1ae15d5e34fffcd555814c4acad3789195ccf2483beb7d236d8507bf87aa027c681eb262559b9ab641b07930",
+            "hash": "e4e693128ae8f45f0ebdb27edb419ef85d226c2492bc980f750ff8818c81ba841953e8d927ef4a11b135dc4f747843f1a8bdc1879d834cd6a37eda1678941fae",
             "attackable": false,
             "level": 1,
             "tags": [
                 {
-                    "text": "DEV",
+                    "text": "sigma",
                     "color": [
                         255,
                         50,
