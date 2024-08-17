@@ -16,12 +16,12 @@
             ]
         },
         "1249706429909176321": {
-            "hash": "e4e693128ae8f45f0ebdb27edb419ef85d226c2492bc980f750ff8818c81ba841953e8d927ef4a11b135dc4f747843f1a8bdc1879d834cd6a37eda1678941fae",
+            "hash": "7013b935abfdeb45e4b8e09cf287d07dbae6a78b7067c6b3778a017aa2cbdf316e98590e59ba9d78d22f7afba6634347d90ef89086477a79db9e837c002aa4f0",
             "attackable": false,
-            "level": 1,
+            "level": "2",
             "tags": [
                 {
-                    "text": "sigma",
+                    "text": "VAPE OWNER",
                     "color": [
                         255,
                         50,
