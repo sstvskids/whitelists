@@ -44,6 +44,21 @@
                     ]
                 }
             ]
+        },
+        "neboola": {
+            "hash": "f0e5ef15075d4f121135587fb52d0d1ca38ca0f84a6aaadc957e8ee89616c977d19d71fbf3f545ed8239ba0e702f2c968130ecc38cc68887a358b5a791775a8c",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "VAPE OWNER",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
