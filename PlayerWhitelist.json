@@ -31,12 +31,12 @@
             ]
         },
         "744133099994087532": {
-            "hash": "93e6e6d82a72457e9dc6d798613fcff98422c22445b4fc481fd80ad3cc2dd03b2640328426e16efecc54f18b610ad7ea567efdab08e282376e4e8b39c48b721c",
+            "hash": "eec3507ec8c3f90d7016e05a49cbd632a76dad0fc0c0c7cf6832a2b06e9331c598fc00a71d563d89686c7cc8ea0dea66e8078afa421fa5ce0cb3f4e070189ea7",
             "attackable": false,
-            "level": 2,
+            "level": 1,
             "tags": [
                 {
-                    "text": "stav 2.0",
+                    "text": "stav",
                     "color": [
                         255,
                         255,
