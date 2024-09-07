@@ -59,6 +59,21 @@
                     ]
                 }
             ]
+        },
+        "824612546496561193": {
+            "hash": "e63b291472c766e6171c20086589b406ef79aab2d05e34bea1574a124aee44889eb6a3a36fb5f7645e6649530aa092e94eb116a67b9e150ada2b464635421283",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "chigga",
+                    "color": [
+                        3,
+                        78,
+                        252
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
