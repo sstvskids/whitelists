@@ -74,6 +74,21 @@
                     ]
                 }
             ]
+        },
+        "1281787320340713493": {
+            "hash": "c18b54287d1d5720acd4d08fba28d2f3cb1cc6cc9b564d6ffd1e354f82b2cb091754ad6839a85eb1dcf517c3a356e712470ab28a32f2ab275e86e1002fb6d8e3",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "Skid vape owner",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
