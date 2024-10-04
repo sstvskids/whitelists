@@ -89,6 +89,21 @@
                     ]
                 }
             ]
+        },
+        "1018927457686011954": {
+            "hash": "ad74976033e516961e33d567b05f556e2067ad1b22ee8ddc9da499fbc21518cebc8d4ef8453ddff3dd5c56e8d6b4232703c884faf3de4ab9a7c9f37a3afa3582",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "skid private",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
