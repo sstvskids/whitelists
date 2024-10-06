@@ -104,6 +104,21 @@
                     ]
                 }
             ]
+        },
+        "1126742390712061982": {
+            "hash": "dfe00e215e114cc5e11b597207d4a22f7fc6d759bc2b17e1731d5f4aa5ceadd5b1a48a84e7232e455f949937835615dc0135b06ef8c2539429ec3b1d64075e77",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "sown",
+                    "color": [
+                        166,
+                        16,
+                        30
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
