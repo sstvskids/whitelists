@@ -119,6 +119,21 @@
                     ]
                 }
             ]
+        },
+        "<coroutine object grab_discord_user_id at 0x000001E231931770>": {
+            "hash": "17e65f9349c1760abc35a5986bf7f1aeedbbaee84bfd7f86e6933042cc339a64b13b31a5b84e179927316e5b090dbdfb28e8230c8a92a0ad2ca162a9327427c6",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "stav",
+                    "color": [
+                        255,
+                        230,
+                        255
+                    ]
+                }
+            ]
         }
     },
     "BlacklistedUsers": {},
